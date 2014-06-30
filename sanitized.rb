@@ -102,7 +102,7 @@
             "Advancing and Expanding"
         ],
                  :name => "Make More Interesting",
-          :description => "Simple exercise, useful for players that are too verbal. One player starts a scene. As soon as the trainer claps his hands, the player needs to make whatever he was doing more interesting, without advancing. If our player was opening a briefcase at the clap, he needs to make `opening a briefcase` more interesting; he is not allowed to take something out of the briefcase, as that would be advancing; player needs to stick to `opening the briefcase`."
+          :description => "Simple exercise, useful for players that are too verbal. One player starts a scene. As soon as the trainer claps his hands, the player needs to make whatever he was doing more interesting, without advancing. If our player was opening a briefcase at the clap, he needs to make `opening a briefcase` more interesting; he is not allowed to take something out of the briefcase, as that would be advancing; player needs to stick to `opening the briefcase`.",
                 :notes => ["Simple to explain but not so easy to play. When done well you move into the clownesque. Think about Chaplin, Laurel & Hardy or Mr. Bean."]
     },
     {
@@ -245,7 +245,7 @@
     },
     {
                 :notes => [
-            "Players do not `become` the animals, they only take over characteristics of the animals. Characteristics may be physical, vocal or Status based. For example, `chicken` might ninspire a player to a cowardly character, moving about jerkily."
+            "Players do not `become` the animals, they only take over characteristics of the animals. Characteristics may be physical, vocal or Status based. For example, `chicken` might ninspire a player to a cowardly character, moving about jerkily.",
             "Totems can be played as an exercise: write totem names on slips of paper. Give every player a totem before they play a scene. You can extend the animal name; make it more specific. Play with things like Bald Eagle rather than Eagle; or Silver Moon, Sitting Bull, etc."
         ],
              :see_also => [],
@@ -1771,7 +1771,7 @@
              :see_also => [],
            :variations => [
             "Use audience members to play the Ground Controllers."
-            ]
+            ],
                 :notes => [
             "Prop needed: Flashlight with affixed cone like they use on the runway at airports. Players need to be ready to justify why they are moving about on stage and not simply just walk back and forth. Movement of the flashlight left or right will more the players left or right on stage. Consider flashlight movement up and down can move the player up and down stage or cause them to \"climb\" or crawl. Origin Contributed by Scared Sciptless Improv."
             ],
@@ -3605,7 +3605,7 @@
            :variations => [],
         :also_known_as => [],
                  :name => "What Would She Be If",
-          :description => "Choose one player and let her stand in front of the class. Then ask the whole class to think what she would be if she were a car, a flower, a building, a era, a foreign country, a mineral, a beverage, your name it."
+          :description => "Choose one player and let her stand in front of the class. Then ask the whole class to think what she would be if she were a car, a flower, a building, a era, a foreign country, a mineral, a beverage, your name it.",
                 :notes => ["Tell the group there are no wrong answers. You may want to ask players what triggered their responses - the answers will probably vary widely. If you are doing a series of workshops, it may also be interesting to play this game early on, before people know each other, and then again after a couple of weeks, when everyone has gotten to know everyone a bit better. See if the answers are any different."]
     },
     {
