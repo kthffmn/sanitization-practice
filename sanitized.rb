@@ -235,7 +235,8 @@
             "Alter Ego",
             "Consciences"
         ],
-                 :name => "Asides An improvized scene is played, which any player can stop at any time by yelling freeze. At that point, the player steps out of the scene, and tells the audience what his character is really thinking, after which the scene continues. The other characters of course are not supposed to know what players are thinking, but the players do, and should use this.",
+                 :name => "Asides",
+          :description => "An improvized scene is played, which any player can stop at any time by yelling freeze. At that point, the player steps out of the scene, and tells the audience what his character is really thinking, after which the scene continues. The other characters of course are not supposed to know what players are thinking, but the players do, and should use this.",
                 :notes => [
             "Players can use this to reveal their hidden motives. Other players can play into this, or purposely ignore this knowledge. Gimmick: characters may actually have other things on their minds than what`s going on in the scene. E.g. a driver stopped by a cop may be thinking about the groceries his wife told him to get at the supermarket."
         ]
@@ -1155,7 +1156,8 @@
              :see_also => [],
            :variations => [],
         :also_known_as => [],
-                 :name => "Disaster Movie This is a Long Form format that can be played with a large number of players. Audience suggests a type of disaster (flood, earthquake, alien invasion, you name it) and a location where the play will unfold, preferably a location where lots of characters can be found. Examples are a tropical tourist paradise, a big building. The story starts right before the disaster, usually some character foreseeing the disaster, discovering a bad omen or some foretelling sign. Next we see lots of characters in the given location. These should be the archetypical characters one finds in typical disaster movies. Examples are: An old couple that have been together for ever (they will die) A priest who might lead the survivors (he will die) A wacko scientist who will have a miracle solution to escape the disaster (he will die) A fallen-down hero, a die-hard ex-cop thrown out of the force, a retired fireman, an ex life-guard with a coke habit, you get the picture. He will rise up to the occasion and survive. A kid with loving parents (or a troubled teen not getting along with the parents) (the kid will survive, the parents will die Some sort of troubled, dysfunctional character set up to become the lover of the hero. Watch some disaster movies and pick your favorite cliche characters. Next, disaster strikes. Light, sound and smoke effects are a must. Why not use a musician with electric distortion guitar for added color. The following scenes show the characters in their quest to survive. Most will die (spectacularly). Feel free to provide background on the characters using flashbacks. Story ends with the hero + lover + kid (if available and/or still alive) escaping the carnage, ready and set to live happily ever after."
+                 :name => "Disaster Movie",
+          :description => "This is a Long Form format that can be played with a large number of players. Audience suggests a type of disaster (flood, earthquake, alien invasion, you name it) and a location where the play will unfold, preferably a location where lots of characters can be found. Examples are a tropical tourist paradise, a big building. The story starts right before the disaster, usually some character foreseeing the disaster, discovering a bad omen or some foretelling sign. Next we see lots of characters in the given location. These should be the archetypical characters one finds in typical disaster movies. Examples are: An old couple that have been together for ever (they will die) A priest who might lead the survivors (he will die) A wacko scientist who will have a miracle solution to escape the disaster (he will die) A fallen-down hero, a die-hard ex-cop thrown out of the force, a retired fireman, an ex life-guard with a coke habit, you get the picture. He will rise up to the occasion and survive. A kid with loving parents (or a troubled teen not getting along with the parents) (the kid will survive, the parents will die Some sort of troubled, dysfunctional character set up to become the lover of the hero. Watch some disaster movies and pick your favorite cliche characters. Next, disaster strikes. Light, sound and smoke effects are a must. Why not use a musician with electric distortion guitar for added color. The following scenes show the characters in their quest to survive. Most will die (spectacularly). Feel free to provide background on the characters using flashbacks. Story ends with the hero + lover + kid (if available and/or still alive) escaping the carnage, ready and set to live happily ever after."
     },
     {
              :see_also => [
@@ -1432,7 +1434,8 @@
              :see_also => [],
            :variations => [],
         :also_known_as => [],
-                 :name => "Faces This is a Long Form that starts with a number of monologues, each based on a character created from a picture of a face, projected on stage. Assemble a series of pictures of faces, make sure the players do not get to see these before the performance. Pick 3-5 players, and randomly assign a face to each player. Audience provides input about the face, e.g. name of the character, motivations, desires, social background etc. The player then introduces the character in a monologue, building upon the image as well as the audience suggestions. Once all main characters have been introduced in the monologues, a series of scenes are played in which the characters that were introduced play the main parts. Players who play a 'faced' character do not play other characters, but auxiliary players may play side characters (and may play more than one character)."
+                 :name => "Faces",
+          :description => "This is a Long Form that starts with a number of monologues, each based on a character created from a picture of a face, projected on stage. Assemble a series of pictures of faces, make sure the players do not get to see these before the performance. Pick 3-5 players, and randomly assign a face to each player. Audience provides input about the face, e.g. name of the character, motivations, desires, social background etc. The player then introduces the character in a monologue, building upon the image as well as the audience suggestions. Once all main characters have been introduced in the monologues, a series of scenes are played in which the characters that were introduced play the main parts. Players who play a 'faced' character do not play other characters, but auxiliary players may play side characters (and may play more than one character)."
     },
     {
              :see_also => [],
@@ -1580,7 +1583,8 @@
              :see_also => [],
            :variations => [],
         :also_known_as => [],
-                 :name => "Follow the Leaver Start a scene with at least 2 characters. This is long form, so feel free to edit to different scenes, in different time periods. Each player sticks to playing one character. whenever a character leaves the scene, the audience may yell \"follow the leaver\". At this point all characters remaining on stage disappear, and the story continues with the character who just left the scene, and a totally different story line is allowed to develop. Characters from the previous scene do not appear in this next scene and the players may play different characters (except for the \"leaver'). This continues until one of the characters leaves and the audience yells \"follow the leaver\". Typically characters from older scenes do not return, though this is not a rule set in stone; the format really allows sequential story lines that do not connect later on."
+                 :name => "Follow the Leaver",
+          :description => "Start a scene with at least 2 characters. This is long form, so feel free to edit to different scenes, in different time periods. Each player sticks to playing one character. whenever a character leaves the scene, the audience may yell \"follow the leaver\". At this point all characters remaining on stage disappear, and the story continues with the character who just left the scene, and a totally different story line is allowed to develop. Characters from the previous scene do not appear in this next scene and the players may play different characters (except for the \"leaver'). This continues until one of the characters leaves and the audience yells \"follow the leaver\". Typically characters from older scenes do not return, though this is not a rule set in stone; the format really allows sequential story lines that do not connect later on."
     },
     {
              :see_also => [],
@@ -1887,7 +1891,8 @@
              :see_also => [],
            :variations => [],
         :also_known_as => [],
-                 :name => "The game starts with one person improvising a solo scene. At some point, as second player enters, and with the first player, starts a new scene. This continues, more players entere one at a time, each time transforming the scene into something new. Once the game reaches capacity, the players reversed their entrances, reverting to previous scenes. When previous scenes are continues, these continue later in time."
+                 :name => "Growing and Shrinking Machine",
+          :description => "The game starts with one person improvising a solo scene. At some point, as second player enters, and with the first player, starts a new scene. This continues, more players entere one at a time, each time transforming the scene into something new. Once the game reaches capacity, the players reversed their entrances, reverting to previous scenes. When previous scenes are continues, these continue later in time."
     },
     {
              :see_also => [],
@@ -3358,7 +3363,8 @@
              :see_also => [],
            :variations => [],
         :also_known_as => [],
-                 :name => "Straight Story A Straight Story is a story that simply runs straight forward in time: one story line, no flashbacks, no sidestories."
+                 :name => "Straight Story",
+          :description => "A Straight Story is a story that simply runs straight forward in time: one story line, no flashbacks, no sidestories."
     },
     {
              :see_also => [],
@@ -3677,7 +3683,8 @@
             "Ask for an audience suggestion for a central theme in the newscast."
         ],
         :also_known_as => [],
-                 :name => "TV News 3 players, who play characters in a TV newscast. One will be the lead anchor, another will do the weather, and the third is a reporter at a location. Then, a newscast is played."
+                 :name => "TV News",
+          :description => "3 players, who play characters in a TV newscast. One will be the lead anchor, another will do the weather, and the third is a reporter at a location. Then, a newscast is played."
     },
     {
              :see_also => [],
