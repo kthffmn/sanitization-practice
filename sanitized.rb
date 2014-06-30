@@ -1424,6 +1424,7 @@
     },
     {
                 :notes => [
+            "If you are using this in a workshop it might be a good idea to ask the players how one would behave given a certain subtext. Stress that you are looking for Truthfulness . This is an excellent technique to find a character. You can actually use this for performance - just give yourself a subtext when you jump onto the stage and see what happens.",
             "Origin: Described in Impro for Storytellers : the book contains an appendix on how to play for different subtexts."
         ],
              :see_also => [
@@ -1432,7 +1433,7 @@
            :variations => [],
         :also_known_as => [],
                  :name => "Fast Food Stanislawski",
-          :description => "Have 2 players perform a scene, perhaps give them a title or a location, but also give them a subtext for their character. Subtexts might be: you want to seduce the other you are a nerd you like to make people laugh you want to impress others you are a nasty person you try to be ordinary you are an optimist/pessimist you will never find a girlfriend/boyfriend Notes If you are using this in a workshop it might be a good idea to ask the players how one would behave given a certain subtext. Stress that you are looking for Truthfulness . This is an excellent technique to find a character. You can actually use this for performance - just give yourself a subtext when you jump onto the stage and see what happens."
+          :description => "Have 2 players perform a scene, perhaps give them a title or a location, but also give them a subtext for their character. Subtexts might be: you want to seduce the other you are a nerd you like to make people laugh you want to impress others you are a nasty person you try to be ordinary you are an optimist/pessimist you will never find a girlfriend/boyfriend"
     },
     {
              :see_also => [
@@ -1618,7 +1619,8 @@
            :variations => [],
         :also_known_as => [],
                  :name => "Freeze Tag",
-          :description => "2 actors start an improvized scene. At any point in time another player can call Freeze. This player then tags out one of the 2 actors, and takes his place. Both players then start a new scene, justifying their positions. Notes The way this improv game is played quite often goes a bit against good improv, as many groups hardly take the time to develop a story line. If played this way, it`s more a game of wit, and you would probably use it early in a show as an audience (and player) warm-up. Alternatively, you can take your time and play every scene for several minutes, see what develops, and only at the end of each scene tag into another scene. To avoid preconceptions, see Blind Freeze ."
+          :description => "2 actors start an improvized scene. At any point in time another player can call Freeze. This player then tags out one of the 2 actors, and takes his place. Both players then start a new scene, justifying their positions.",
+                :notes => ["The way this improv game is played quite often goes a bit against good improv, as many groups hardly take the time to develop a story line. If played this way, it`s more a game of wit, and you would probably use it early in a show as an audience (and player) warm-up. Alternatively, you can take your time and play every scene for several minutes, see what develops, and only at the end of each scene tag into another scene. To avoid preconceptions, see Blind Freeze."]
     },
     {
              :see_also => [],
@@ -1698,9 +1700,8 @@
     },
     {
              :see_also => [],
-           :variations => [
-            "The receiver can provide both the translation, and a new gibberish word. You may want to add the origin of the language along with the translation. Notes Any gibberish word might be translated as `banana` of course, but that is not the idea of the exercise. For your translation, use the first thing that comes to mind. You may be inspired by the whole sound of the word (it might sound like something `known`), or parts of the word (only the vowels, or only the consonants), or by the intonation of the `giver`, or even by her expression or body language. Try gibberish in different `languages` or `accents`."
-        ],
+           :variations => ["The receiver can provide both the translation, and a new gibberish word. You may want to add the origin of the language along with the translation."],
+                :notes => ["Any gibberish word might be translated as `banana` of course, but that is not the idea of the exercise. For your translation, use the first thing that comes to mind. You may be inspired by the whole sound of the word (it might sound like something `known`), or parts of the word (only the vowels, or only the consonants), or by the intonation of the `giver`, or even by her expression or body language. Try gibberish in different `languages` or `accents`."],
         :also_known_as => [
             "Gibberish Dictionary"
         ],
