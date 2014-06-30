@@ -1933,14 +1933,16 @@
            :variations => [],
         :also_known_as => [],
                  :name => "Hitch Hiker",
-          :description => "Use 4 chairs to build the interior of a car. One player starts driving the car, and another player becomes a hitch hiker, hiking a ride. The hitch hiker character has a particular character tick or particular emotion, which the driver takes over. Other hitch hikers join in, each with their own characteristics or emotions, taken over by the driver and the passengers in the car as the hiker joins. When the car is full, one of the players leaves the car to make room for the new guest. Notes Don`t forget to justify leaving the car."
+          :description => "Use 4 chairs to build the interior of a car. One player starts driving the car, and another player becomes a hitch hiker, hiking a ride. The hitch hiker character has a particular character tick or particular emotion, which the driver takes over. Other hitch hikers join in, each with their own characteristics or emotions, taken over by the driver and the passengers in the car as the hiker joins. When the car is full, one of the players leaves the car to make room for the new guest.",
+                :notes => ["Don`t forget to justify leaving the car."]
     },
     {
              :see_also => [],
            :variations => [],
         :also_known_as => [],
                  :name => "Honey Walk",
-          :description => "This is a group exercise. Tell the players they have an oxygen mask, and then talk them thru the exercise: players are to move about in successively thicker substances. Go from thin air, mist, warm water, oil, honey, Jell-O, wet cement to hard cement. End the game by having them `frozen` in cement and break out with a big bang. Notes Coach the players to imagine really moving about these substances. They should be able to `feel` the mist between their fingers, the honey in their hair."
+          :description => "This is a group exercise. Tell the players they have an oxygen mask, and then talk them thru the exercise: players are to move about in successively thicker substances. Go from thin air, mist, warm water, oil, honey, Jell-O, wet cement to hard cement. End the game by having them `frozen` in cement and break out with a big bang.",
+                :notes => ["Coach the players to imagine really moving about these substances. They should be able to `feel` the mist between their fingers, the honey in their hair."]
     },
     {
              :see_also => [],
@@ -1954,7 +1956,8 @@
            :variations => [],
         :also_known_as => [],
                  :name => "Hot Spot",
-          :description => "All players in a circle. One player steps into the circle and starts singing a known song. As soon as this player shows any signs of stopping (because she doesn`t know the lines any more, gets tired or embarrassed) another player needs to step in and take over (singing a different song). Notes This exercise is not about improvising songs, but more of a group thing. Players need to know that the group will support them when they`re out of breath. The idea is to keep singing."
+          :description => "All players in a circle. One player steps into the circle and starts singing a known song. As soon as this player shows any signs of stopping (because she doesn`t know the lines any more, gets tired or embarrassed) another player needs to step in and take over (singing a different song).",
+                :notes => ["This exercise is not about improvising songs, but more of a group thing. Players need to know that the group will support them when they`re out of breath. The idea is to keep singing."]
     },
     {
              :see_also => [],
@@ -1976,7 +1979,9 @@
             "You can use this as a handle for a performance. When a player is asked to sit down, and there are no chairs on the scene, another player can become the chair for the first player to sit on. Other examples are ticking clocks in haunted houses, cabinets and closets, you name it."
         ],
         :also_known_as => [],
-                 :name => "Human Props Excellent exercise for building environments and object work. Ask one player to start doing an activity that somehow defines (broadly) a location. E.g. when someone starts typing she might be in a (home) office. The other players then become the other objects in the environment. Notes Tell the first player she can start using the props built by other players in the environment (if she recognizes them). Tell players to go for the obvious: in just about any room you could be a plant, a door or a table, after all. When done, ask the first player to name any `object` built in the environment."
+                 :name => "Human Props",
+          :description => "Excellent exercise for building environments and object work. Ask one player to start doing an activity that somehow defines (broadly) a location. E.g. when someone starts typing she might be in a (home) office. The other players then become the other objects in the environment.",
+                :notes => ["Tell the first player she can start using the props built by other players in the environment (if she recognizes them). Tell players to go for the obvious: in just about any room you could be a plant, a door or a table, after all. When done, ask the first player to name any `object` built in the environment."]
     },
     {
              :see_also => [],
