@@ -399,9 +399,7 @@
           :description => "This is can be used as a Trust exercise, as well as in performance. 2 players perform a slow dance together; each with their head on the other`s shoulder. Hence they are not looking at each other. While dancing they perform a 2-3 minute scene. This gives for great listening practice, since players aren`t looking at their partners. If is also good for overcoming (physical) awkwardness between partners that are not familiar. And it is a great exercise for physical work in the dance, as in physical expression of the character`s feelings."
     },
     {
-             :see_also => [
-            "Balladeer(2)"
-        ],
+             :see_also => ["Balladeer(2)"],
            :variations => [],
         :also_known_as => [],
                  :name => "Balladeer(1)",
@@ -1774,7 +1772,7 @@
            :variations => [
             "Use audience members to play the Ground Controllers."
             ]
-            :notes => [
+                :notes => [
             "Prop needed: Flashlight with affixed cone like they use on the runway at airports. Players need to be ready to justify why they are moving about on stage and not simply just walk back and forth. Movement of the flashlight left or right will more the players left or right on stage. Consider flashlight movement up and down can move the player up and down stage or cause them to \"climb\" or crawl. Origin Contributed by Scared Sciptless Improv."
             ],
         :also_known_as => [],
@@ -2562,7 +2560,8 @@
         ],
         :also_known_as => [],
                  :name => "One Mouth",
-          :description => "One player (or the MC) is going to interview all other players, but the group of other players are really one character. This character answers the questions, but all players provide the answer at the same time, as if the character is speaking out of many mouths simultaneously. The answers should make sense (at least grammatically) and should be clear. If one player starts answering a question by saying `YYYY` no-one should try and turn that into a `No`. Notes works best if everyone goes for the obvious and simple answers. don`t try to speak too fast, but take your time to let the answer organically grow. coach players to take the lead if the answers is sagging, and to happily give up the lead as soon as they feel they got the lead. move players that stubbornly always take the lead to another position in the group (at the back or at the ends)."
+          :description => "One player (or the MC) is going to interview all other players, but the group of other players are really one character. This character answers the questions, but all players provide the answer at the same time, as if the character is speaking out of many mouths simultaneously. The answers should make sense (at least grammatically) and should be clear. If one player starts answering a question by saying `YYYY` no-one should try and turn that into a `No`.",
+                :notes => ["Works best if everyone goes for the obvious and simple answers. don`t try to speak too fast, but take your time to let the answer organically grow. coach players to take the lead if the answers is sagging, and to happily give up the lead as soon as they feel they got the lead. move players that stubbornly always take the lead to another position in the group (at the back or at the ends)."]
     },
     {
              :see_also => [],
