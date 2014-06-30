@@ -1772,8 +1772,11 @@
     {
              :see_also => [],
            :variations => [
-            "Use audience members to play the Ground Controllers. Notes Prop needed: Flashlight with affixed cone like they use on the runway at airports. Players need to be ready to justify why they are moving about on stage and not simply just walk back and forth. Movement of the flashlight left or right will more the players left or right on stage. Consider flashlight movement up and down can move the player up and down stage or cause them to \"climb\" or crawl. Origin Contributed by Scared Sciptless Improv."
-        ],
+            "Use audience members to play the Ground Controllers."
+            ]
+            :notes => [
+            "Prop needed: Flashlight with affixed cone like they use on the runway at airports. Players need to be ready to justify why they are moving about on stage and not simply just walk back and forth. Movement of the flashlight left or right will more the players left or right on stage. Consider flashlight movement up and down can move the player up and down stage or cause them to \"climb\" or crawl. Origin Contributed by Scared Sciptless Improv."
+            ],
         :also_known_as => [],
                  :name => "Ground Control",
           :description => "4 players. 2 players will be Ground Controllers, the other 2 provide the dialog in the scene. Each player has one ground controller assigned to them. The Ground Controllers use flashlights (preferably with cones attached like they use at airports) to direct the movement of the players. The players can not move unless directed by the ground controller."
@@ -1783,7 +1786,8 @@
            :variations => [],
         :also_known_as => [],
                  :name => "Group Environment",
-          :description => "This is a group exercise in building environments. One player starts by entering a `space` through a `door`, and then leaves that space, through the same or through another door. Any doors placed remain where they are, and the characteristics of the door are not to change. Then another player enters the same space, and places a mimed object in that space, either by physically placing the object ( carrying, wheeling or pushing it into the space, or by just `using` it, for example by hanging her coat over a chair. Second players leaves the room, either through one of the established doors, or by placing a new exit. This continues until every player has done their thing. Each player needs to respect, and perhaps use all objects placed by previous players. Notes Watch for players Gagging - anyone placing a jukebox in what has clearly been defined as a church is just trying to be funny and screwing up the scene."
+          :description => "This is a group exercise in building environments. One player starts by entering a `space` through a `door`, and then leaves that space, through the same or through another door. Any doors placed remain where they are, and the characteristics of the door are not to change. Then another player enters the same space, and places a mimed object in that space, either by physically placing the object ( carrying, wheeling or pushing it into the space, or by just `using` it, for example by hanging her coat over a chair. Second players leaves the room, either through one of the established doors, or by placing a new exit. This continues until every player has done their thing. Each player needs to respect, and perhaps use all objects placed by previous players.",
+                :notes => ["Watch for players Gagging - anyone placing a jukebox in what has clearly been defined as a church is just trying to be funny and screwing up the scene."]
     },
     {
              :see_also => [
@@ -1799,13 +1803,12 @@
           :description => "Everyone starts milling about the room. Any player may decide to stop walking at any time. As soon as one player stops walking, everyone needs to freeze in position. As soon as everyone is froze, start walking again. Obviously, the idea is for the group to freeze as quickly as possible."
     },
     {
-             :see_also => [
-            "Blind Line Up"
-        ],
+             :see_also => ["Blind Line Up"],
            :variations => [],
         :also_known_as => [],
                  :name => "Group Order",
-          :description => "Nice warm-up exercise to help the group function/agree as a whole. Everybody starts milling about the room. You then ask them to line up , according to various criteria. Examples are: order by age order by weight order by shoe size order by mental health order by personal hygiene order by number of ex-lovers order by blue Notes Keep the silly criteria (order by blue) till the end. Usually, the players will start realizing that it doesn`t really matter what the order is, as long as the group agrees on the order. Criteria like mental health or personal hygiene are quite interesting to train on Chivalry ."
+          :description => "Nice warm-up exercise to help the group function/agree as a whole. Everybody starts milling about the room. You then ask them to line up , according to various criteria. Examples are: order by age order by weight order by shoe size order by mental health order by personal hygiene order by number of ex-lovers order by blue.",
+                :notes => ["Keep the silly criteria (order by blue) till the end. Usually, the players will start realizing that it doesn`t really matter what the order is, as long as the group agrees on the order. Criteria like mental health or personal hygiene are quite interesting to train on Chivalry."]
     },
     {
              :see_also => [
@@ -1891,11 +1894,11 @@
     {
              :see_also => [],
            :variations => [
-            "Can be done with 4 players: 2 provide the lines, and the 2 others provide the `directions` - each director provides the action for one of the 2 talkers. Can also be one with 3 players: one provides directions and both other players do their own dialogs. Notes Keep the action do-able and active. Making someone else `think about something` is hard to play, and not very active."
-        ],
-        :also_known_as => [
-            "He Said While She"
-        ],
+            "Can be done with 4 players: 2 provide the lines, and the 2 others provide the `directions` - each director provides the action for one of the 2 talkers. Can also be one with 3 players: one provides directions and both other players do their own dialogs."
+           ],
+                :notes => ["Keep the action do-able and active. Making someone else `think about something` is hard to play, and not very active."],
+
+        :also_known_as => ["He Said While She"],
                  :name => "He Said She Said",
           :description => "Excellent game to show how Endowment works. 2 players; each player will state the action the other player must perform, followed by his own line. Example: 1: \"I want a divorce\" 2: \"She said, while grabbing a knife from the kitchen table.\" At this point player 1 needs to take a knife. Player 2 continues with his own line. \"Sure Honey\" 1: \"He said, while turning to the sports page of the paper\". Now, it`s quite clear that player 2 should be paying more attention to the paper than to his wife. Player 1 continues with her own line. \"You`re not listening to me\" and so on. Players refer to each other as `he` and `she`, and endow each other with the next action to take. This can be quite funny, if you endow your partner to do crazy or not-so-nice things to you (or to themselves, but that`s would not be Mr. Nice Guy )."
     },
