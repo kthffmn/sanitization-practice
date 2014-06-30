@@ -37,7 +37,9 @@
         :also_known_as => [],
                  :name => "Accepting Circle",
           :description => "Get everyone in a big circle. One player starts by making a little gesture, perhaps with a little sound. His or her neighbor then tries and does exactly the same. And so on. Although we expect the gesture/sound not to change, it will.",
-                :notes => ["Watch for movements that suddenly change left/right arm or leg. This is not really supposed to happen, but it will. Once happened, it should be accepted by the next player. Also watch/listen for little moans or sighs that players might make before or after their turn - these should also be taken over by the next player."]
+                :notes => [
+            "Watch for movements that suddenly change left/right arm or leg. This is not really supposed to happen, but it will. Once happened, it should be accepted by the next player. Also watch/listen for little moans or sighs that players might make before or after their turn - these should also be taken over by the next player."
+        ]
     },
     {
              :see_also => [],
@@ -84,7 +86,9 @@
         ],
                  :name => "Actor`s Nightmare",
           :description => "This one is played by 2 players, one of which gets their lines on paper (like a script). The other player should justify whatever the scripted player says.",
-                :notes => ["You can use existing plays for this, but also lines from comics. Whoever gets the script should not forget to play/act - only her lines are defined, not what she does, or how she does the lines."]
+                :notes => [
+            "You can use existing plays for this, but also lines from comics. Whoever gets the script should not forget to play/act - only her lines are defined, not what she does, or how she does the lines."
+        ]
     },
     {
              :see_also => [],
@@ -103,7 +107,9 @@
         ],
                  :name => "Make More Interesting",
           :description => "Simple exercise, useful for players that are too verbal. One player starts a scene. As soon as the trainer claps his hands, the player needs to make whatever he was doing more interesting, without advancing. If our player was opening a briefcase at the clap, he needs to make `opening a briefcase` more interesting; he is not allowed to take something out of the briefcase, as that would be advancing; player needs to stick to `opening the briefcase`.",
-                :notes => ["Simple to explain but not so easy to play. When done well you move into the clownesque. Think about Chaplin, Laurel & Hardy or Mr. Bean."]
+                :notes => [
+            "Simple to explain but not so easy to play. When done well you move into the clownesque. Think about Chaplin, Laurel & Hardy or Mr. Bean."
+        ]
     },
     {
              :see_also => [],
@@ -111,7 +117,9 @@
         :also_known_as => [],
                  :name => "Aerobics",
           :description => "This is a fun observation game. Place all players in a line. The first player starts walking around the room, walking a large circle. The second player starts following the first one, and tries to move like the first player. After a few rounds, the first player goes to the back of the line, and the third player starts following and imitating the second one.",
-                :notes => ["Tell players to be themselves; don`t try and walk around funny (it`s not the Ministry of Silly Walks after all)."]
+                :notes => [
+            "Tell players to be themselves; don`t try and walk around funny (it`s not the Ministry of Silly Walks after all)."
+        ]
     },
     {
              :see_also => [],
@@ -185,7 +193,9 @@
         :also_known_as => [],
                  :name => "Alliterations",
           :description => "You will need a tennis ball or a towel tied in a knot for this one. Everyone sitting or standing in a circle. You give one person the ball, and ask him to name as many words as possible that start with a `P` (or any other letter), in the time it takes for the ball to get passed along the circle. Doubles don`t count, obviously.",
-                :notes => ["Tell players not to watch the ball go round when they`re `it` - they`ll just panic and freeze. Tell them to try this with closed eyes."]
+                :notes => [
+            "Tell players not to watch the ball go round when they`re `it` - they`ll just panic and freeze. Tell them to try this with closed eyes."
+        ]
     },
     {
              :see_also => [],
@@ -202,7 +212,9 @@
         :also_known_as => [],
                  :name => "Alphabet Game",
           :description => "This is a scene consisting of 26 lines of dialog. The first line starts with a given letter (say `R`). The reply to that line must start with a `S`, and so on, until the whole alphabet has been covered. After `Z` comes `A`. Players that hesitate, or use the wrong letter `Die`, and are replaced by another player. The replacement needs to take over the character of the player she replaces.",
-                :notes => ["Urge players not to `stick` to the game - if you can`t think of a good sentence to advance the story, it`s better to just `die` than to screw up the story (see Chivalry )."]
+                :notes => [
+            "Urge players not to `stick` to the game - if you can`t think of a good sentence to advance the story, it`s better to just `die` than to screw up the story (see Chivalry )."
+        ]
     },
     {
              :see_also => [],
@@ -224,7 +236,9 @@
             "Consciences"
         ],
                  :name => "Asides An improvized scene is played, which any player can stop at any time by yelling freeze. At that point, the player steps out of the scene, and tells the audience what his character is really thinking, after which the scene continues. The other characters of course are not supposed to know what players are thinking, but the players do, and should use this.",
-                 :notes => ["Players can use this to reveal their hidden motives. Other players can play into this, or purposely ignore this knowledge. Gimmick: characters may actually have other things on their minds than what`s going on in the scene. E.g. a driver stopped by a cop may be thinking about the groceries his wife told him to get at the supermarket."]
+                :notes => [
+            "Players can use this to reveal their hidden motives. Other players can play into this, or purposely ignore this knowledge. Gimmick: characters may actually have other things on their minds than what`s going on in the scene. E.g. a driver stopped by a cop may be thinking about the groceries his wife told him to get at the supermarket."
+        ]
     },
     {
              :see_also => [],
@@ -241,7 +255,9 @@
         ],
                  :name => "What Happens Next",
           :description => "One player in the middle, the others sit aside. Any person can give the middle player a task, which she performs, and then she asks `What happens next` ? Any player may suggest what needs to happen next, but the idea is for the group to construct a coherent story.",
-                :notes => ["The player in the middle should only and strictly be doing what she`s told; it is up to the players at the side to construct the story."]
+                :notes => [
+            "The player in the middle should only and strictly be doing what she`s told; it is up to the players at the side to construct the story."
+        ]
     },
     {
                 :notes => [
@@ -320,7 +336,7 @@
     },
     {
                 :notes => [
-            '"At the Oscars" is where we start the performance with an Oscar nomination (or win) for the Director.'
+            "\"At the Oscars\" is where we start the performance with an Oscar nomination (or win) for the Director."
         ],
              :see_also => [],
            :variations => [],
@@ -399,12 +415,16 @@
           :description => "This is can be used as a Trust exercise, as well as in performance. 2 players perform a slow dance together; each with their head on the other`s shoulder. Hence they are not looking at each other. While dancing they perform a 2-3 minute scene. This gives for great listening practice, since players aren`t looking at their partners. If is also good for overcoming (physical) awkwardness between partners that are not familiar. And it is a great exercise for physical work in the dance, as in physical expression of the character`s feelings."
     },
     {
-             :see_also => ["Balladeer(2)"],
+             :see_also => [
+            "Balladeer(2)"
+        ],
            :variations => [],
         :also_known_as => [],
                  :name => "Balladeer(1)",
           :description => "In this musical improv handle, one player is the balladeer, who starts singing a ballad about an audience suggestion. The other players actually play what the balladeer sings about, in slow motion. This is actually group story-building, as the players are inspired by the what the balladeer sings (obviously) but also, their actions can/should inspire the balladeer.",
-                :notes => ["You`re not limited to ballads, of course. The same improv Handle can be used for a Long Form structure: see Balladeer(2) . Origin The Improvoholics mailed us to claim they developed this game. Well thanks guys."]
+                :notes => [
+            "You`re not limited to ballads, of course. The same improv Handle can be used for a Long Form structure: see Balladeer(2) . Origin The Improvoholics mailed us to claim they developed this game. Well thanks guys."
+        ]
     },
     {
              :see_also => [
@@ -512,7 +532,9 @@
         ],
                  :name => "Hat Continuation",
           :description => "Start a scene, and identify each of the characters by means of a hat. The MC will interrupt (freeze) the game from time to time, and switch the players` hats. After the switch each player becomes the character that previously wore his or her hat. The story needs to continue and should make sense.",
-                :notes => ["A gimmick is Commenting on the fact that characters 'jump' in space when the hats gets switched. Use sparingly."]
+                :notes => [
+            "A gimmick is Commenting on the fact that characters 'jump' in space when the hats gets switched. Use sparingly."
+        ]
     },
     {
              :see_also => [],
@@ -594,7 +616,9 @@
         :also_known_as => [],
                  :name => "Blind Line Up",
           :description => "This one is like Group Order , except that everyone keeps their eyes closed, and no talking is allowed while the group lines up.",
-                :notes => ["This is more a group exercise than Group Order (which is more about agreement), so initially you probably want to take it easy on the silly stuff, like line up by order of mental health....Always interesting to see what strategies the group comes up with. You can`t really use alphabetical order if the group does not really know each other."]
+                :notes => [
+            "This is more a group exercise than Group Order (which is more about agreement), so initially you probably want to take it easy on the silly stuff, like line up by order of mental health....Always interesting to see what strategies the group comes up with. You can`t really use alphabetical order if the group does not really know each other."
+        ]
     },
     {
              :see_also => [],
@@ -676,7 +700,9 @@
         :also_known_as => [],
                  :name => "Boris",
           :description => "2 players play an improvized interrogation scene. One is the interrogator, the other is a suspect. The interrogator randomly throws unconnected elements to the suspect, who needs to incorporate these and get himself into (even more) trouble. And then we have Boris, who is a nasty, huge, but invisible thug assisting the interrogator. Every time the interrogator does not like the suspect`s answers (and also when the suspect does not incriminate himself enough), the interrogator calls on Boris to torture the suspect, prodding him to confess or incriminate him even further.",
-                :notes => ["We do not establish the crime beforehand the suspect mimes being tortured by Boris the investigator can tell Boris what to do (break his leg), but it is more fun to leave the choice of torture up to the suspect if the torture does not go far enough to the investigator`s taste, he can always call in Boris` evil twin brother, Igor (also invisible) as a gag, the suspect can also incriminate Boris (who can turn out to be a witness/accomplice to the crime). Origin This improv game is attributed to Keith Johnstone."]
+                :notes => [
+            "We do not establish the crime beforehand the suspect mimes being tortured by Boris the investigator can tell Boris what to do (break his leg), but it is more fun to leave the choice of torture up to the suspect if the torture does not go far enough to the investigator`s taste, he can always call in Boris` evil twin brother, Igor (also invisible) as a gag, the suspect can also incriminate Boris (who can turn out to be a witness/accomplice to the crime). Origin This improv game is attributed to Keith Johnstone."
+        ]
     },
     {
              :see_also => [],
@@ -737,7 +763,9 @@
         :also_known_as => [],
                  :name => "Card Status",
           :description => "Excellent Status improv game. 4 players. Ask an audience member to pick 4 cards out of a deck, and attach a card to each player`s forehead, so that players can see each other`s card, but not their own. Use a rubber band or a piece of string for that. The idea is to improvize a scene, in which the status order of the characters is defined by the cards. Evidently, players don`t know their own status, so the other players will have to endow them.",
-                :notes => ["Set up a location where status is important. Examples would be a Royal Palace or a highly organized bureaucracy (the White House ?)."]
+                :notes => [
+            "Set up a location where status is important. Examples would be a Royal Palace or a highly organized bureaucracy (the White House ?)."
+        ]
     },
     {
              :see_also => [
@@ -853,7 +881,9 @@
         :also_known_as => [],
                  :name => "Columbian Hypnosis",
           :description => "Played in pairs. One player holds her open hand, fingers upward, about 2-3 inches from her partner`s face. She then starts moving her hand about slowly, while her partner tried to keep his face at exactly the same distance from her hand, like her hand is pulling of pushing his face about. Switch sides and partners after a couple of minutes.",
-                :notes => ["This is really also an exercise for the hypnotized, as she needs to ensure that her partner is able to follow her."]
+                :notes => [
+            "This is really also an exercise for the hypnotized, as she needs to ensure that her partner is able to follow her."
+        ]
     },
     {
              :see_also => [],
@@ -1043,7 +1073,9 @@
         :also_known_as => [],
                  :name => "Death in a Minute",
           :description => "2 or 3 players play a 1 minute scene, in which one player must die.",
-                :notes => ["Tell players to take risks. Why not just drop dead after 5 seconds and leave it up to the other player to justify the death."]
+                :notes => [
+            "Tell players to take risks. Why not just drop dead after 5 seconds and leave it up to the other player to justify the death."
+        ]
     },
     {
              :see_also => [
@@ -1055,7 +1087,9 @@
         ],
                  :name => "Voices From Heaven",
           :description => "Excellent game for building characters and group-storytelling. 4 players, ask the audience who they are, what their occupation would be. These 4 characters have died together, and they are going to tell us how that came about. Players line up. The game is played in 3 rounds. In every round, each player offers some information about how they happened to die. At the end of the thirds round, they should all be dead.",
-                :notes => ["It`s fun to take risks - if in the first round each of the players just offers what they happened to be doing the day they died, and where. It is quite a challenge to get these 4 stories together, including the deaths of all characters, by the end of the third round."]
+                :notes => [
+            "It`s fun to take risks - if in the first round each of the players just offers what they happened to be doing the day they died, and where. It is quite a challenge to get these 4 stories together, including the deaths of all characters, by the end of the third round."
+        ]
     },
     {
              :see_also => [],
@@ -1092,7 +1126,9 @@
         ],
                  :name => "Ding",
           :description => "A scene is played. Whenever the MC ring a bell (or yells `Ding`), the player that is doing something/saying something needs to say/do something else.",
-                :notes => ["Doing `something else` is quite often interpreted as doing/saying the opposite of what you did before. One can be more creative, e.g. repeat what was said in a different emotion. If you use this as an exercise on Spontaneity the trainer can `Ding` quite often (very frustrating for the players, but they will come up with stuff they never would have thought of before). Disadvantage of this is that the story/characters tend to get lost. Use sparingly for performance."]
+                :notes => [
+            "Doing `something else` is quite often interpreted as doing/saying the opposite of what you did before. One can be more creative, e.g. repeat what was said in a different emotion. If you use this as an exercise on Spontaneity the trainer can `Ding` quite often (very frustrating for the players, but they will come up with stuff they never would have thought of before). Disadvantage of this is that the story/characters tend to get lost. Use sparingly for performance."
+        ]
     },
     {
              :see_also => [],
@@ -1149,7 +1185,9 @@
         :also_known_as => [],
                  :name => "Dissociation",
           :description => "This game can be done individually, or you can have one player do it in front of the class. Players say as many words that have nothing to do with each other, until they start associating. Restart as soon as you`ve got an association. Example: cat, deodorizer, house, green, grass. Here we restart, because grass is obviously an association on green.",
-                :notes => ["You can use this game to show that association is natural, and that it is actually difficult not to associate."]
+                :notes => [
+            "You can use this game to show that association is natural, and that it is actually difficult not to associate."
+        ]
     },
     {
              :see_also => [],
@@ -1193,7 +1231,9 @@
         :also_known_as => [],
                  :name => "Doo Wop(2)",
           :description => "This is another structured long form. Get a topic, line up the players, and start improvising a song around the theme, usually without using a piano player (it would get too structured and cluttered if you so). Use the suggestion to improvise instruments (or their sound) with. Players can offer bits of Narrative by singing over the `music`. Once the narrative patterns are clean, any player can step out of the song and start a scene based on what was established. When the scene is done the `music` resumes till someone else starts a scene. Nice if the scenes start to connect, or if characters from different scenes meet and interact.",
-                :notes => ["This is a bit like a Harold but without the games. Or like a French Braid where the glue between the scenes is the song."]
+                :notes => [
+            "This is a bit like a Harold but without the games. Or like a French Braid where the glue between the scenes is the song."
+        ]
     },
     {
              :see_also => [
@@ -1203,7 +1243,9 @@
         :also_known_as => [],
                  :name => "Doors",
           :description => "Excellent introductory exercise for building environments and Platform . All players in 2 rows. 2 facing players play the exercise, the others watch. Player 1 sets a (part of a) platform by miming a door. As soon as player 2 has an idea about where player 1 might be, player 2 steps into the scene and offers a line of dialog, expressing where we are. Player 2 answers player 1, acknowledging player 1`s offer. This ends the scene. The audience should know after these 2 lines of dialog where the players are, and who they are, or what their relationship is to one another.",
-                :notes => ["`Doors` can be anything that separates one physical location from another. Players can mime real doors, but also gates, curtains, you name it. Encourage players to try out as many types of `doors` as possible. Use sound to enhance the platform, e.g. a door in a submarine makes a different kind of noise than an elevator door."]
+                :notes => [
+            "`Doors` can be anything that separates one physical location from another. Players can mime real doors, but also gates, curtains, you name it. Encourage players to try out as many types of `doors` as possible. Use sound to enhance the platform, e.g. a door in a submarine makes a different kind of noise than an elevator door."
+        ]
     },
     {
              :see_also => [],
@@ -1218,7 +1260,9 @@
         :also_known_as => [],
                  :name => "Double Endowment",
           :description => "Another great game to train listening skills. Pick a place where a scene will be played, and 2 players. Tell each player what they need to get the other player to do, without the other player knowing this. Players are not allowed to explicitly tell the other player what to do. Example: an arena in ancient Rome. Player 1 needs player 2 to taste the sand in the arena, and player 2 needs to get player 1 to tie a knot in a lion`s tail.",
-                :notes => ["Works best is players take risks. If they to the `wrong` thing the audience will probably just laugh, and that should be enough to signal the player he`s going the wrong way."]
+                :notes => [
+            "Works best is players take risks. If they to the `wrong` thing the audience will probably just laugh, and that should be enough to signal the player he`s going the wrong way."
+        ]
     },
     {
              :see_also => [],
@@ -1304,7 +1348,9 @@
         :also_known_as => [],
                  :name => "Emotional Quadrants",
           :description => "Divide the scene in 4 quadrants, and allocate 4 different emotions to each quadrant. Players improvize a scene, but need to take on the emotion of the quadrant they are in.",
-                :notes => ["Encourage players to move about, in order to force changes of emotions. Don`t forget to justify emotion changes."]
+                :notes => [
+            "Encourage players to move about, in order to force changes of emotions. Don`t forget to justify emotion changes."
+        ]
     },
     {
              :see_also => [],
@@ -1352,7 +1398,9 @@
         :also_known_as => [],
                  :name => "Evil Twin",
           :description => "You need 4 players for this improv game. 2 will improvize a scene. The other players are the other`s evil twins. At any point, the `twins` can shout `freeze` after which they tag out their twin, and continue the scene and do something evil. After that, they move out again, and the original twin brother needs to justify the evil, correct or repair the damage done and continue the scene.",
-                :notes => ["Great setups for this game are things like first dates, or meeting your in-laws for the very first time."]
+                :notes => [
+            "Great setups for this game are things like first dates, or meeting your in-laws for the very first time."
+        ]
     },
     {
              :see_also => [],
@@ -1367,7 +1415,9 @@
         :also_known_as => [],
                  :name => "Exaggeration Circle",
           :description => "All players in a circle, or a long line. One player starts a little gesture, with or without a little sound.. The next player takes it over and makes it bigger. The last player does the whole thing to the extreme.",
-                :notes => ["Make sure the players stick to the original gesture/sound, and don`t just do their own thing. We should be able to see the movement grow organically."]
+                :notes => [
+            "Make sure the players stick to the original gesture/sound, and don`t just do their own thing. We should be able to see the movement grow organically."
+        ]
     },
     {
              :see_also => [],
@@ -1618,7 +1668,9 @@
         :also_known_as => [],
                  :name => "Freeze Tag",
           :description => "2 actors start an improvized scene. At any point in time another player can call Freeze. This player then tags out one of the 2 actors, and takes his place. Both players then start a new scene, justifying their positions.",
-                :notes => ["The way this improv game is played quite often goes a bit against good improv, as many groups hardly take the time to develop a story line. If played this way, it`s more a game of wit, and you would probably use it early in a show as an audience (and player) warm-up. Alternatively, you can take your time and play every scene for several minutes, see what develops, and only at the end of each scene tag into another scene. To avoid preconceptions, see Blind Freeze."]
+                :notes => [
+            "The way this improv game is played quite often goes a bit against good improv, as many groups hardly take the time to develop a story line. If played this way, it`s more a game of wit, and you would probably use it early in a show as an audience (and player) warm-up. Alternatively, you can take your time and play every scene for several minutes, see what develops, and only at the end of each scene tag into another scene. To avoid preconceptions, see Blind Freeze."
+        ]
     },
     {
              :see_also => [],
@@ -1698,8 +1750,12 @@
     },
     {
              :see_also => [],
-           :variations => ["The receiver can provide both the translation, and a new gibberish word. You may want to add the origin of the language along with the translation."],
-                :notes => ["Any gibberish word might be translated as `banana` of course, but that is not the idea of the exercise. For your translation, use the first thing that comes to mind. You may be inspired by the whole sound of the word (it might sound like something `known`), or parts of the word (only the vowels, or only the consonants), or by the intonation of the `giver`, or even by her expression or body language. Try gibberish in different `languages` or `accents`."],
+           :variations => [
+            "The receiver can provide both the translation, and a new gibberish word. You may want to add the origin of the language along with the translation."
+        ],
+                :notes => [
+            "Any gibberish word might be translated as `banana` of course, but that is not the idea of the exercise. For your translation, use the first thing that comes to mind. You may be inspired by the whole sound of the word (it might sound like something `known`), or parts of the word (only the vowels, or only the consonants), or by the intonation of the `giver`, or even by her expression or body language. Try gibberish in different `languages` or `accents`."
+        ],
         :also_known_as => [
             "Gibberish Dictionary"
         ],
@@ -1771,10 +1827,10 @@
              :see_also => [],
            :variations => [
             "Use audience members to play the Ground Controllers."
-            ],
+        ],
                 :notes => [
             "Prop needed: Flashlight with affixed cone like they use on the runway at airports. Players need to be ready to justify why they are moving about on stage and not simply just walk back and forth. Movement of the flashlight left or right will more the players left or right on stage. Consider flashlight movement up and down can move the player up and down stage or cause them to \"climb\" or crawl. Origin Contributed by Scared Sciptless Improv."
-            ],
+        ],
         :also_known_as => [],
                  :name => "Ground Control",
           :description => "4 players. 2 players will be Ground Controllers, the other 2 provide the dialog in the scene. Each player has one ground controller assigned to them. The Ground Controllers use flashlights (preferably with cones attached like they use at airports) to direct the movement of the players. The players can not move unless directed by the ground controller."
@@ -1785,7 +1841,9 @@
         :also_known_as => [],
                  :name => "Group Environment",
           :description => "This is a group exercise in building environments. One player starts by entering a `space` through a `door`, and then leaves that space, through the same or through another door. Any doors placed remain where they are, and the characteristics of the door are not to change. Then another player enters the same space, and places a mimed object in that space, either by physically placing the object ( carrying, wheeling or pushing it into the space, or by just `using` it, for example by hanging her coat over a chair. Second players leaves the room, either through one of the established doors, or by placing a new exit. This continues until every player has done their thing. Each player needs to respect, and perhaps use all objects placed by previous players.",
-                :notes => ["Watch for players Gagging - anyone placing a jukebox in what has clearly been defined as a church is just trying to be funny and screwing up the scene."]
+                :notes => [
+            "Watch for players Gagging - anyone placing a jukebox in what has clearly been defined as a church is just trying to be funny and screwing up the scene."
+        ]
     },
     {
              :see_also => [
@@ -1801,12 +1859,16 @@
           :description => "Everyone starts milling about the room. Any player may decide to stop walking at any time. As soon as one player stops walking, everyone needs to freeze in position. As soon as everyone is froze, start walking again. Obviously, the idea is for the group to freeze as quickly as possible."
     },
     {
-             :see_also => ["Blind Line Up"],
+             :see_also => [
+            "Blind Line Up"
+        ],
            :variations => [],
         :also_known_as => [],
                  :name => "Group Order",
           :description => "Nice warm-up exercise to help the group function/agree as a whole. Everybody starts milling about the room. You then ask them to line up , according to various criteria. Examples are: order by age order by weight order by shoe size order by mental health order by personal hygiene order by number of ex-lovers order by blue.",
-                :notes => ["Keep the silly criteria (order by blue) till the end. Usually, the players will start realizing that it doesn`t really matter what the order is, as long as the group agrees on the order. Criteria like mental health or personal hygiene are quite interesting to train on Chivalry."]
+                :notes => [
+            "Keep the silly criteria (order by blue) till the end. Usually, the players will start realizing that it doesn`t really matter what the order is, as long as the group agrees on the order. Criteria like mental health or personal hygiene are quite interesting to train on Chivalry."
+        ]
     },
     {
              :see_also => [
@@ -1893,10 +1955,13 @@
              :see_also => [],
            :variations => [
             "Can be done with 4 players: 2 provide the lines, and the 2 others provide the `directions` - each director provides the action for one of the 2 talkers. Can also be one with 3 players: one provides directions and both other players do their own dialogs."
-           ],
-                :notes => ["Keep the action do-able and active. Making someone else `think about something` is hard to play, and not very active."],
-
-        :also_known_as => ["He Said While She"],
+        ],
+                :notes => [
+            "Keep the action do-able and active. Making someone else `think about something` is hard to play, and not very active."
+        ],
+        :also_known_as => [
+            "He Said While She"
+        ],
                  :name => "He Said She Said",
           :description => "Excellent game to show how Endowment works. 2 players; each player will state the action the other player must perform, followed by his own line. Example: 1: \"I want a divorce\" 2: \"She said, while grabbing a knife from the kitchen table.\" At this point player 1 needs to take a knife. Player 2 continues with his own line. \"Sure Honey\" 1: \"He said, while turning to the sports page of the paper\". Now, it`s quite clear that player 2 should be paying more attention to the paper than to his wife. Player 1 continues with her own line. \"You`re not listening to me\" and so on. Players refer to each other as `he` and `she`, and endow each other with the next action to take. This can be quite funny, if you endow your partner to do crazy or not-so-nice things to you (or to themselves, but that`s would not be Mr. Nice Guy )."
     },
@@ -1932,7 +1997,9 @@
         :also_known_as => [],
                  :name => "Hitch Hiker",
           :description => "Use 4 chairs to build the interior of a car. One player starts driving the car, and another player becomes a hitch hiker, hiking a ride. The hitch hiker character has a particular character tick or particular emotion, which the driver takes over. Other hitch hikers join in, each with their own characteristics or emotions, taken over by the driver and the passengers in the car as the hiker joins. When the car is full, one of the players leaves the car to make room for the new guest.",
-                :notes => ["Don`t forget to justify leaving the car."]
+                :notes => [
+            "Don`t forget to justify leaving the car."
+        ]
     },
     {
              :see_also => [],
@@ -1940,7 +2007,9 @@
         :also_known_as => [],
                  :name => "Honey Walk",
           :description => "This is a group exercise. Tell the players they have an oxygen mask, and then talk them thru the exercise: players are to move about in successively thicker substances. Go from thin air, mist, warm water, oil, honey, Jell-O, wet cement to hard cement. End the game by having them `frozen` in cement and break out with a big bang.",
-                :notes => ["Coach the players to imagine really moving about these substances. They should be able to `feel` the mist between their fingers, the honey in their hair."]
+                :notes => [
+            "Coach the players to imagine really moving about these substances. They should be able to `feel` the mist between their fingers, the honey in their hair."
+        ]
     },
     {
              :see_also => [],
@@ -1955,7 +2024,9 @@
         :also_known_as => [],
                  :name => "Hot Spot",
           :description => "All players in a circle. One player steps into the circle and starts singing a known song. As soon as this player shows any signs of stopping (because she doesn`t know the lines any more, gets tired or embarrassed) another player needs to step in and take over (singing a different song).",
-                :notes => ["This exercise is not about improvising songs, but more of a group thing. Players need to know that the group will support them when they`re out of breath. The idea is to keep singing."]
+                :notes => [
+            "This exercise is not about improvising songs, but more of a group thing. Players need to know that the group will support them when they`re out of breath. The idea is to keep singing."
+        ]
     },
     {
              :see_also => [],
@@ -1979,7 +2050,9 @@
         :also_known_as => [],
                  :name => "Human Props",
           :description => "Excellent exercise for building environments and object work. Ask one player to start doing an activity that somehow defines (broadly) a location. E.g. when someone starts typing she might be in a (home) office. The other players then become the other objects in the environment.",
-                :notes => ["Tell the first player she can start using the props built by other players in the environment (if she recognizes them). Tell players to go for the obvious: in just about any room you could be a plant, a door or a table, after all. When done, ask the first player to name any `object` built in the environment."]
+                :notes => [
+            "Tell the first player she can start using the props built by other players in the environment (if she recognizes them). Tell players to go for the obvious: in just about any room you could be a plant, a door or a table, after all. When done, ask the first player to name any `object` built in the environment."
+        ]
     },
     {
              :see_also => [],
@@ -2085,7 +2158,9 @@
         :also_known_as => [],
                  :name => "Just Gibberish",
           :description => "Excellent exercise for improv players that suffer from chronic Waffling . Improvise a scene, completely in gibberish, no translations provided. The scene should be perfectly clear to the audience - we should be perfectly able to translate every gibberish sentence, and the story should make sense.",
-                :notes => ["This will only work if the stories are extremely simple, and if the Platform is made clear right from the start. Some players tend to do this as a scene without words, but that is not the idea of the exercise."]
+                :notes => [
+            "This will only work if the stories are extremely simple, and if the Platform is made clear right from the start. Some players tend to do this as a scene without words, but that is not the idea of the exercise."
+        ]
     },
     {
              :see_also => [],
@@ -2101,8 +2176,10 @@
             "Queen Game"
         ],
                  :name => "King Game",
-          :description => "One player is the king or the queen. Other players are to try and pleas his/her Royal Highness. They do this by entering the room, and offering something. The queen either tells them to continue, in case she`s interested. die, in case the queen is bored freeze, if the queen might be interested Players that are allowed to continue may approach the queen and the queen may unfreeze frozen players at her discretion. The game is over when a player is close enough to actually touch the queen.", 
-                :notes => ["The queen can kill a player for any reason: she may not like the message, or she may not like the way the message is presented. The queen can give hints why she does not like the offer: \"You know I don`t drink coffee, so die!\". The queen should be really difficult..."]
+          :description => "One player is the king or the queen. Other players are to try and pleas his/her Royal Highness. They do this by entering the room, and offering something. The queen either tells them to continue, in case she`s interested. die, in case the queen is bored freeze, if the queen might be interested Players that are allowed to continue may approach the queen and the queen may unfreeze frozen players at her discretion. The game is over when a player is close enough to actually touch the queen.",
+                :notes => [
+            "The queen can kill a player for any reason: she may not like the message, or she may not like the way the message is presented. The queen can give hints why she does not like the offer: \"You know I don`t drink coffee, so die!\". The queen should be really difficult..."
+        ]
     },
     {
              :see_also => [],
@@ -2185,7 +2262,9 @@
         :also_known_as => [],
                  :name => "Lets Not",
           :description => "Excellent game to train narrative skills, but a bit controversial. Play in pairs: start with a location (e.g. a beach). One player give the suggestions (e.g. let`s find a talking crab). The other player either accepts the offer, and both play accordingly, or refuses the offer. When an offer is refused the first player needs to make a better offer.",
-                :notes => ["This is a bit controversial in the sense that players may object to refusing offers; after all, we teach players to accept offers. Explain that the goal of this exercise is twofold: teach players to drop their own ideas (see Chivalry ) and happily change course in their story teach players which offers are `fun` and which ones are not. The player accepting or refusing the offers should accept any offer that `feels good` or that advances the story, and only reject offers that don`t sound like fun or don`t seem to offer any potential for an interesting story. See Ding and Yes Lets - or Rather Not for similar exercises."]
+                :notes => [
+            "This is a bit controversial in the sense that players may object to refusing offers; after all, we teach players to accept offers. Explain that the goal of this exercise is twofold: teach players to drop their own ideas (see Chivalry ) and happily change course in their story teach players which offers are `fun` and which ones are not. The player accepting or refusing the offers should accept any offer that `feels good` or that advances the story, and only reject offers that don`t sound like fun or don`t seem to offer any potential for an interesting story. See Ding and Yes Lets - or Rather Not for similar exercises."
+        ]
     },
     {
              :see_also => [],
@@ -2195,7 +2274,9 @@
         :also_known_as => [],
                  :name => "Letter Number Name",
           :description => "Warm-up game that`s also good to get to know each other`s names. Everyone in a big circle. You start by `giving` your neighbor your name. Just lift your right arm and call your name to your neighbor. He does the same to his neighbor, and names run around the circle. Then do the same with the letters of the alphabet. Give an `a` to your neighbor, making a `giving` gesture with your right hand. Your neighbor continues by passing a `b` to his neighbor, and so on. Ditto with the numbers 1 to 9. Use another gesture, e.g. pass the number by tipping your right foot in the direction of your neighbor. When everyone`s got this, try all of this at the same time. Start by passing your name, and as soon as the name thing has advanced 2 or 3 players across the circle, set a letter thing in motion, and then a number thing. If you have enough players, just mix and match.",
-                :notes => ["Pay attention to how much gets lost - does everything you set in motion eventually get back to you or not? You can coach players by saying they only need to pay attention to what their neighbor does, not what`s going on elsewhere in the circle."]
+                :notes => [
+            "Pay attention to how much gets lost - does everything you set in motion eventually get back to you or not? You can coach players by saying they only need to pay attention to what their neighbor does, not what`s going on elsewhere in the circle."
+        ]
     },
     {
              :see_also => [],
@@ -2208,9 +2289,15 @@
     },
     {
              :see_also => [],
-           :variations => ["You can script the text of the little voice, and have the player justify anything that is said. See Actor`s Nightmare . See Evil Stick of Gum for a different variation of the same improv game."],
-                :notes => ["Make sure players immediately make clear what exactly is doing the talking. Either the voice makes this clear, or the other player: Oh my god, a talking duck with a machine gun! Bet you`ve never seen a talking couch, have you? Play Name the Monster in combination with this game."],
-        :also_known_as => ["Speck"],
+           :variations => [
+            "You can script the text of the little voice, and have the player justify anything that is said. See Actor`s Nightmare . See Evil Stick of Gum for a different variation of the same improv game."
+        ],
+                :notes => [
+            "Make sure players immediately make clear what exactly is doing the talking. Either the voice makes this clear, or the other player: Oh my god, a talking duck with a machine gun! Bet you`ve never seen a talking couch, have you? Play Name the Monster in combination with this game."
+        ],
+        :also_known_as => [
+            "Speck"
+        ],
                  :name => "Little Voice",
           :description => "One player plays an improvized scene. The other player(s) play the voice(s) of objects in the environment in which the first player plays. Anything can have a voice. Examples: a player walks in a forest and an ant starts talking to him a player is in the bathroom and his toothbrush starts talking"
     },
@@ -2248,7 +2335,7 @@
     },
     {
                 :notes => [
-            '"Making Faces" is a silly handle attributed to Keith Johnstone'
+            "\"Making Faces\" is a silly handle attributed to Keith Johnstone"
         ],
              :see_also => [],
            :variations => [],
@@ -2264,7 +2351,9 @@
         :also_known_as => [],
                  :name => "Malapropism",
           :description => "This game flexes your mind. Have the players walk about in the room, point to any object, and give it another name.",
-                :notes => ["You can use this game for players that have difficulty with association: it shows that association is natural, and that it is actually difficult not to associate."]
+                :notes => [
+            "You can use this game for players that have difficulty with association: it shows that association is natural, and that it is actually difficult not to associate."
+        ]
     },
     {
              :see_also => [],
@@ -2292,7 +2381,9 @@
         :also_known_as => [],
                  :name => "Mantra Introduction",
           :description => "Here's a way to make a point about blanking one`s mind, subconscious thinking and spontaneity. Have all players sit down comfortably, if they want to close their eyes they can do so. Then ask them to blank their mind, to try and think about nothing at all. Let them do this for 2 minutes or so. While they do so, make sure to walk around, to make some minor noise (blow your nose, clear your throat, walk around) - but don`t overdo this. If you can hear cars drive by in the street, or other people in the building, or hear birds sing then you don`t even have to make a noise. Then ask the players who managed to think about absolutely nothing at all. Ask those who say they did whether they heard the birds, the cards, you clearing your throat. If they did, weren`t they thinking about that, then? Now ask the players to close their eyes, and to keep repeating the sound `mihad` in their heads. Have them do this for about 3 minutes. Then ask them again who thought about nothing but `mihad`. If they are honest they should all admit they thought of all kinds of stuff. The point is that our minds just never stop working. Even if you`re trying to concentrate on a repeating sound in your head - a Mantra - your mind will still wander. We are all capable of thinking about several things at a time, some people can keep up to 7 lines of thought going in their minds. Who has never driven a car, being perfectly concentrated on the traffic, without thinking about work, the groceries, the kids ? You can use this exercise to show students they never need to be afraid of a brain freeze - our brains manage to come up with so many things all the time - if you let them. Mantras are used as a technique for (Transcendental and other) meditation. The idea is to keep the most active part of your consciousness busy, and at the same time let unconscious processes and lines of thought surface. This is similar to what happens in our dreams, but it has been proven (we`ve been told) that these meditation techniques can be more relaxing or cleansing than sleep. Don`t take our word for that, though.",
-                :notes => ["You can choose any gobbledygook word for a mantra for this exercise, as long as it`s not an existing word (don`t use `banana`) or strongly resembles an existing word (`banano` wouldn`t do either) - that could trigger people to think about monkeys, or a jungle, or whatever."]
+                :notes => [
+            "You can choose any gobbledygook word for a mantra for this exercise, as long as it`s not an existing word (don`t use `banana`) or strongly resembles an existing word (`banano` wouldn`t do either) - that could trigger people to think about monkeys, or a jungle, or whatever."
+        ]
     },
     {
              :see_also => [],
@@ -2331,7 +2422,9 @@
           :description => "Place all players in a circle. Have everyone put their hands on their right neighbor`s shoulders and give `em a shoulder massage. Turn directions after a minute or so."
     },
     {
-             :see_also => ["Boris"],
+             :see_also => [
+            "Boris"
+        ],
            :variations => [],
         :also_known_as => [],
                  :name => "Master Servant Disaster",
@@ -2458,16 +2551,24 @@
     },
     {
              :see_also => [],
-           :variations => ["Have one person in the middle of the circle. This person provides the category, and indicates how many replies are expected from a player in the circle. If that player does not live up to the challenge, he takes the place in the middle of the circle."], 
-                :notes => ["Tell players not to watch the ball go round when they`re `it` - they`ll just panic and freeze. Try this with closed eyes. Don`t ask for 1940`s Nobel Prize winners, or simply `emotions`."],
+           :variations => [
+            "Have one person in the middle of the circle. This person provides the category, and indicates how many replies are expected from a player in the circle. If that player does not live up to the challenge, he takes the place in the middle of the circle."
+        ],
+                :notes => [
+            "Tell players not to watch the ball go round when they`re `it` - they`ll just panic and freeze. Try this with closed eyes. Don`t ask for 1940`s Nobel Prize winners, or simply `emotions`."
+        ],
         :also_known_as => [],
                  :name => "Name 6 Circle",
           :description => "You will need a tennis ball or a towel tied in a knot for this one. Everyone sitting or standing in a circle. You give one person the ball, and ask him to name at least 6 (or any other number, depending on the size of the circle), in the time it takes for the ball to get passed along the circle. Things to ask for might be sour tasting fruit foreign makes of cars names of seas B-movies Italian foods"
     },
     {
              :see_also => [],
-           :variations => ["Take this game a bit further, and ask the players not to run away from the monster, but do something. Fight it, beat it, get eaten (and continue in the monster`s stomach or in heaven/hell), make friends with it, tame it, capture it, ride it, whatever."], 
-                :notes => ["The real goal of the exercise is to get used to explicitly naming the problem (the `monster` in this case). Use this game e.g. in combination with Little Voice , to teach players to actually name whatever is talking to them."],
+           :variations => [
+            "Take this game a bit further, and ask the players not to run away from the monster, but do something. Fight it, beat it, get eaten (and continue in the monster`s stomach or in heaven/hell), make friends with it, tame it, capture it, ride it, whatever."
+        ],
+                :notes => [
+            "The real goal of the exercise is to get used to explicitly naming the problem (the `monster` in this case). Use this game e.g. in combination with Little Voice , to teach players to actually name whatever is talking to them."
+        ],
         :also_known_as => [],
                  :name => "Name the Monster",
           :description => "Play in pairs, one word at a time (see Word at a Time Scene ). Choose a location (e.g. walk in the forest). Players must meet a monster, give it a name, and run away from it. The `monster` can be anything: an evil witch, a dragon, a frog with a machine gun, a smelly French cheese, anything."
@@ -2561,7 +2662,9 @@
         :also_known_as => [],
                  :name => "One Mouth",
           :description => "One player (or the MC) is going to interview all other players, but the group of other players are really one character. This character answers the questions, but all players provide the answer at the same time, as if the character is speaking out of many mouths simultaneously. The answers should make sense (at least grammatically) and should be clear. If one player starts answering a question by saying `YYYY` no-one should try and turn that into a `No`.",
-                :notes => ["Works best if everyone goes for the obvious and simple answers. don`t try to speak too fast, but take your time to let the answer organically grow. coach players to take the lead if the answers is sagging, and to happily give up the lead as soon as they feel they got the lead. move players that stubbornly always take the lead to another position in the group (at the back or at the ends)."]
+                :notes => [
+            "Works best if everyone goes for the obvious and simple answers. don`t try to speak too fast, but take your time to let the answer organically grow. coach players to take the lead if the answers is sagging, and to happily give up the lead as soon as they feel they got the lead. move players that stubbornly always take the lead to another position in the group (at the back or at the ends)."
+        ]
     },
     {
              :see_also => [],
@@ -2576,7 +2679,9 @@
         :also_known_as => [],
                  :name => "Only Questions",
           :description => "A scene is improvised, in which any sentence used by the players must be a question. Players that use statements instead of questions are boo-ed out by the audience (audience yells `Die`) and are replaced by other players. New players need to take over the character of the players they replace.",
-                :notes => ["Although questions are quite often frowned upon in improv, in this game the idea is to build a story. That implies that any question should be giving information, and should be (implicitly) advancing on the information already available. Evidently, the next player should implicitly accept any information that was given in the previous question(s)."]
+                :notes => [
+            "Although questions are quite often frowned upon in improv, in this game the idea is to build a story. That implies that any question should be giving information, and should be (implicitly) advancing on the information already available. Evidently, the next player should implicitly accept any information that was given in the previous question(s)."
+        ]
     },
     {
              :see_also => [],
@@ -2584,7 +2689,9 @@
         :also_known_as => [],
                  :name => "Open Offer",
           :description => "One player starts a scene by making an offer that is not `complete`, in the sense that it is vague enough not to define the who/what/where right away. Another player steps in and completes the Platform.",
-                :notes => ["Although in performance we probably want to establish our Platform as early as possible, this game teaches improv players how to quickly build platforms as a group or a team."]
+                :notes => [
+            "Although in performance we probably want to establish our Platform as early as possible, this game teaches improv players how to quickly build platforms as a group or a team."
+        ]
     },
     {
              :see_also => [],
@@ -2594,7 +2701,9 @@
         :also_known_as => [],
                  :name => "Open Your Hand",
           :description => "Let the players walk around the room leisurely. Then ask them to stop, open their hands, and let something fall out of the sky, right into their hands. Let them name the object in their hands, set it aside, move on and open their hands again.",
-                :notes => ["Some people find this a bit of a scary game, as if they are afraid they are not going to come up with anything. Explain that there are no wrong answers. Some players will complain that everything that falls out of the sky is a dead bird (or whatever). Explain to them that this is fine too. Most players, if reassured that they really can`t go wrong, move on to other stuff after 10 dead birds or so."]
+                :notes => [
+            "Some people find this a bit of a scary game, as if they are afraid they are not going to come up with anything. Explain that there are no wrong answers. Some players will complain that everything that falls out of the sky is a dead bird (or whatever). Explain to them that this is fine too. Most players, if reassured that they really can`t go wrong, move on to other stuff after 10 dead birds or so."
+        ]
     },
     {
              :see_also => [],
@@ -2745,7 +2854,9 @@
         ],
                  :name => "Word at a Time Scene",
           :description => "This is like Word at a Time Expert, but with a bit more scene work. 2 players, speaking one word at a time, alternating between the players. The scene is starting by stating who they are, or where they are. Example: \"We-are-on-a-sunny-beach\". The players then actually play that, and build a story, word at a time, and actually playing the story at the same time. For example: \"We-see-a-dead-whale\"; the players should actually see the whale, and do something with it. There is no need to `say` everything before doing it ( use our motto: Play it, don`t say it).",
-                :notes => ["Players have an adventure together; the story needs to happen to both of them, they are not to play against each other. As many players tend to verbosity, use a director that `cuts` the scene and tells the players what to do. Example: \"Give the whale mouth-to-mouth\"."]
+                :notes => [
+            "Players have an adventure together; the story needs to happen to both of them, they are not to play against each other. As many players tend to verbosity, use a director that `cuts` the scene and tells the players what to do. Example: \"Give the whale mouth-to-mouth\"."
+        ]
     },
     {
              :see_also => [],
@@ -2762,7 +2873,9 @@
         :also_known_as => [],
                  :name => "Pockets",
           :description => "Before the show, ask the audience to write simple sentences on slips of paper. Anything goes. The game is played by 2 players. Ask for a location, or a profession, and have every player draw 3 of these slips. Players put these in their pockets without reading them. Then a scene is played, in which at any point in time, players replace what they might have said, by whatever is on the piece of paper they draw out of their pocket. Try to incorporate/justify whatever is your line into the scene.",
-                :notes => ["Try to avoid thinks like `My granny always said` - you want your character to say whatever is on the piece of paper - don`t try to put those words into someone else`s mouth."]
+                :notes => [
+            "Try to avoid thinks like `My granny always said` - you want your character to say whatever is on the piece of paper - don`t try to put those words into someone else`s mouth."
+        ]
     },
     {
              :see_also => [],
@@ -2786,7 +2899,9 @@
         ],
                  :name => "SloMo Samurai",
           :description => "Tell the players they are Samurai, and their right forearm is a poisoned sword. Then have them do a slow motion sword fight. The only way to fend off a `sword` is by blocking it with your right arm. If another player`s sword touches your body on any other part than your right forearm, you die a gruesome death (also in slow motion).",
-                :notes => ["Players should not speed up when they are about to get `killed`, but rather `let themselves be killed`. Good game to teach a little Chivalry."]
+                :notes => [
+            "Players should not speed up when they are about to get `killed`, but rather `let themselves be killed`. Good game to teach a little Chivalry."
+        ]
     },
     {
              :see_also => [],
@@ -2821,7 +2936,9 @@
         :also_known_as => [],
                  :name => "Press Conference",
           :description => "This is a verbal improv game, played with 3 to 8 players. One player leaves the room, while the audience provides the name of a famous or historical person. The `absent` player will give a press conference, but he does not know who he is. The other players are journalists, whose questions should provide indications to who the mystery guest might be. Game ends when our player guesses who he is.",
-                :notes => ["The `journalists` should really play journalist characters. They can take photographs, or have a fight about who gets to ask the next question."]
+                :notes => [
+            "The `journalists` should really play journalist characters. They can take photographs, or have a fight about who gets to ask the next question."
+        ]
     },
     {
              :see_also => [],
@@ -2836,7 +2953,9 @@
         :also_known_as => [],
                  :name => "Props",
           :description => "In this game the players need to come up with an original/funny use of a prop. They cannot use the prop the way it is supposed to be used for, obviously.",
-                :notes => ["You could really use any object as if it were a cell phone, but that is not the idea of the exercise. Look at the object (or it`s parts) and see what inspires you. We once saw a player, given a chair, who turned into a prisoner. The back of the chair became the bars of this cell."]
+                :notes => [
+            "You could really use any object as if it were a cell phone, but that is not the idea of the exercise. Look at the object (or it`s parts) and see what inspires you. We once saw a player, given a chair, who turned into a prisoner. The back of the chair became the bars of this cell."
+        ]
     },
     {
              :see_also => [],
@@ -2944,7 +3063,9 @@
         :also_known_as => [],
                  :name => "Rituals",
           :description => "Get an everyday activity from the audience. Then play this activity as if it were a ritual.",
-                :notes => ["Think about religion, voodoo, sports, a NATO summit, whatever. You`ll realize a lot of what we do is ritualized, just heighten that."]
+                :notes => [
+            "Think about religion, voodoo, sports, a NATO summit, whatever. You`ll realize a lot of what we do is ritualized, just heighten that."
+        ]
     },
     {
              :see_also => [],
@@ -3016,8 +3137,12 @@
     },
     {
              :see_also => [],
-           :variations => ["Each statue or sculpture has a built in voice chip that can utter exactly one sentence. Let the sculptors switch on the voice chip at the end of their explanation."],
-                :notes => ["Excellent exercise to try with a new group to see who is Mr. Nice Guy . Players that keep placing the sculptures in positions that are impossible to maintain or physically painful can easily be spotted with this exercise. Other thing to watch for is which players undo the work the previous artists made. The idea is to build art together, not to destroy previously done work in order to push your own ideas. Make this clear by asking the sculptors, when they`re in front of their original work again, to what extent the works still looks anything like what they started with."],
+           :variations => [
+            "Each statue or sculpture has a built in voice chip that can utter exactly one sentence. Let the sculptors switch on the voice chip at the end of their explanation."
+        ],
+                :notes => [
+            "Excellent exercise to try with a new group to see who is Mr. Nice Guy . Players that keep placing the sculptures in positions that are impossible to maintain or physically painful can easily be spotted with this exercise. Other thing to watch for is which players undo the work the previous artists made. The idea is to build art together, not to destroy previously done work in order to push your own ideas. Make this clear by asking the sculptors, when they`re in front of their original work again, to what extent the works still looks anything like what they started with."
+        ],
         :also_known_as => [],
                  :name => "Sculptors",
           :description => "Works best with an even number of players. Split the group in 2. One half forms a circle in the middle of the room, facing outwards. The other half positions themselves, each player in front of one of the players in the middle circle. The middle players are clay, or stone, and the outsiders are sculptors. Let each sculptor do something to his lump of clay, then make the sculptors rotate clockwise. Everyone now stands in front of someone else`s block of stone or lump of clay. Have them work some more on the sculpture and rotate again. Repeat till every player is in front of his original piece of stone again. Then ask the sculptors to introduce their work, and give it a name."
@@ -3031,8 +3156,12 @@
     },
     {
              :see_also => [],
-           :variations => ["A shot can only be fired after a player has made a 360 degree spin. Another variation is to have players walk around. Whoever gets caught in cross fire is dead."],
-                :notes => ["This is really a game about Chivalry and not about winning. Use this game early in a workshop to spot the students that stubbornly refuse to be shot and correct them. You could consider your moment of death you moment of glory - show off how willing you are to accept you own death, and die with enthusiasm."],
+           :variations => [
+            "A shot can only be fired after a player has made a 360 degree spin. Another variation is to have players walk around. Whoever gets caught in cross fire is dead."
+        ],
+                :notes => [
+            "This is really a game about Chivalry and not about winning. Use this game early in a workshop to spot the students that stubbornly refuse to be shot and correct them. You could consider your moment of death you moment of glory - show off how willing you are to accept you own death, and die with enthusiasm."
+        ],
         :also_known_as => [],
                  :name => "Shootout",
           :description => "Excellent game to get to know each other`s names. Everybody`s a cowboy or cowgirl, you get them in a circle and ask them to test their revolvers. Have them shoot up in air, not at each other (yet). Then ask the group to concentrate; when everybody`s quiet, call someone`s name. That person needs to drop to the floor as fast as he can. His neighbors take a shot a him; if he`s not down r fast enough, he dies (making grueling sounds). If he`s down before a gun is fired, the neighbor who fired last dies. Insist that for every shot there should be at least one victim. If`s there`s any confusion about who shot first, they should all spontaneously die. Repeat till only 2 players are alive. Place those 2 back to back in the middle of the room, and give them a sign to start walking away from each other. When they hear you drop a coin (or a key ring, or whatever) they turn around as fast as they can and shoot the other. Again, at least one victim, and if they`re not sure who shot first they should both gladly die."
@@ -3099,7 +3228,9 @@
         :also_known_as => [],
                  :name => "Slide Show",
           :description => "Give one player a big activity, perhaps a trip through the jungle, or the construction of a home. This player needs to present a slide show; the other players will play what`s in the slides.",
-                :notes => ["The idea is that the story is built both by the presenter, and by the images the other players present in the slides. Sidecoach players not to simply just `build` what the narrator has described, but to extend it, to build/show the sequel or next step in the story."]
+                :notes => [
+            "The idea is that the story is built both by the presenter, and by the images the other players present in the slides. Sidecoach players not to simply just `build` what the narrator has described, but to extend it, to build/show the sequel or next step in the story."
+        ]
     },
     {
              :see_also => [],
@@ -3151,7 +3282,9 @@
         :also_known_as => [],
                  :name => "Something Old Something New",
           :description => "An excellent group improv game to train listening skills. Taken from tho old wedding adage, \"Something old, Something new, Something borrowed, Something blue.\" 5 players, one player - the bride, leaves the room. The remaining 4 players each get one of the following from the audience: Something old Something new Something borrowed Something blue The idea is that player number 5, the Bride, needs to guess each of the 4 players items. Game ends when all 4 items have been guessed. The players need to provide hints to the bride, but they cannot explicitly tell the bride what they are or what they have. Similar in essence to The Party.",
-                :notes => ["Works best if players help the bride by providing hints as to the other characters items. The players can chose to \"be\" the item or simply have the item and try and present it to the bride only dropping hints. One example; Something old = Abacus, Something new = IPhone (new at time of writing), Something borrowed = Chainsaw, Something blue = Blue Whale. Very important that the 4 players (not the bride) pay attention to the other players items and are available to drop hints to help it along. Origin Contributed by Scared Sciptless Improv."]
+                :notes => [
+            "Works best if players help the bride by providing hints as to the other characters items. The players can chose to \"be\" the item or simply have the item and try and present it to the bride only dropping hints. One example; Something old = Abacus, Something new = IPhone (new at time of writing), Something borrowed = Chainsaw, Something blue = Blue Whale. Very important that the 4 players (not the bride) pay attention to the other players items and are available to drop hints to help it along. Origin Contributed by Scared Sciptless Improv."
+        ]
     },
     {
              :see_also => [],
@@ -3191,7 +3324,9 @@
         :also_known_as => [],
                  :name => "Split Screen",
           :description => "Divide the stage in a left and a right half. The right part becomes the left and vice versa, and the division in the middle becomes a `wall`. Then play a scene with 4 players and only 2 characters. When a player leaves the stage to the left hand side, his character, played by another player, should enter from the right. The character should stay the same, even though it`s played by a different player.",
-                :notes => ["The center of the stage cannot be crossed as it is a wall. As a gimmick one might decide to make a hole in the wall, but stepping through this hole would make the character appear at the other side of the `room` - hard to justify..."]
+                :notes => [
+            "The center of the stage cannot be crossed as it is a wall. As a gimmick one might decide to make a hole in the wall, but stepping through this hole would make the character appear at the other side of the `room` - hard to justify..."
+        ]
     },
     {
              :see_also => [],
@@ -3231,7 +3366,9 @@
         :also_known_as => [],
                  :name => "Stretching",
           :description => "As a warm-up, let`s do some simple stretching exercises. Everyone in the group shows a stretch of a body part, and that is then done by all others. Repeat until the whole body has been stretched.",
-                :notes => ["On a silly note, try stretching unstretchable body parts: eye balls, ears, hair, noses, toenails."]
+                :notes => [
+            "On a silly note, try stretching unstretchable body parts: eye balls, ears, hair, noses, toenails."
+        ]
     },
     {
              :see_also => [],
@@ -3335,7 +3472,9 @@
         :also_known_as => [],
                  :name => "The Bag",
           :description => "This is a group exercise for building Characters . One player on a chair, up to 5 other players sit in front of her. The player on the chair starts by taking something out of a big mimed bag. She holds the object in front of her and names the object - anything that comes to mind is just fine (see Warehouse , Open Your Hand or Presents ). The other players start asking the middle player questions about the object, why she has it, what it might mean to her. After a few questions, she is asked to take another object from the bag - again, this can be anything and need not be related to the first object that came up. This prompts more questions, and more objects. Continue until we know the character that is sitting on the chair.",
-                :notes => ["The idea of the exercise is to construct the character as a group. Both objects, questions and answers to the questions will provide cues to who the person on the chair might be. Avoid very leading questions, although any element in the questions should probably be accepted. As soon as the person on the chair has an idea of who she might be, what her state of mind might be, how old she might be, what her Status might be, she should start showing these qualities, until she really `becomes` the character. Use voice and body language to express this."]
+                :notes => [
+            "The idea of the exercise is to construct the character as a group. Both objects, questions and answers to the questions will provide cues to who the person on the chair might be. Avoid very leading questions, although any element in the questions should probably be accepted. As soon as the person on the chair has an idea of who she might be, what her state of mind might be, how old she might be, what her Status might be, she should start showing these qualities, until she really `becomes` the character. Use voice and body language to express this."
+        ]
     },
     {
              :see_also => [],
@@ -3350,7 +3489,9 @@
         :also_known_as => [],
                  :name => "The Gerbil",
           :description => "Invent a silly dramatic story, and explain it to the audience. Classic example is the following: \"After fixing the roof, Roger decided to clean the house, including the cage of Mary`s gerbil. He put the animal in a frying pan, from which it escaped to the roof, where it got stuck in some fresh tar. Roger put it back in it`s cage, where it got smothered by the fresh woodchips. Roger tried to use a solvent to clean the creature, but the solvent fumes cause the creature to die of a cardiac arrest. At that point Mary walks in\". This is when the scene starts: Roger needs to explain what happens, but as soon as the audience starts laughing Roger is replaced by another player who gets a new shot. The idea is to try and play the scene without getting the audience to laugh.",
-                :notes => ["Don`t stick to the gerbil story - you can invent any silly story for this game. Origin Attributed to Keith Johnstone and described in Impro for Storytellers."]
+                :notes => [
+            "Don`t stick to the gerbil story - you can invent any silly story for this game. Origin Attributed to Keith Johnstone and described in Impro for Storytellers."
+        ]
     },
     {
              :see_also => [],
@@ -3427,7 +3568,9 @@
         :also_known_as => [],
                  :name => "Three Noses",
           :description => "A fun and silly game. Let everyone walk leisurely around the room. When you shout `3 Noses` the players must form little groups, each group consisting of 3 touching noses. Use your imagination - as for 7 left big toes, 2 earlobes, 9 fingers, 4 nipples, 5 bellybuttons. Repeat till everyone is giggling.",
-                :notes => ["This is a great game for new groups, as it lets the players get a feel (literally) for each other."]
+                :notes => [
+            "This is a great game for new groups, as it lets the players get a feel (literally) for each other."
+        ]
     },
     {
              :see_also => [],
@@ -3468,7 +3611,9 @@
         :also_known_as => [],
                  :name => "Touch to Talk",
           :description => "In this handle players play a scene in which they can only use speech when they touch each other.",
-                :notes => ["Fun when played in locations when people don`t usually touch each other, like a confession chair, a sauna. Don`t go for the easy option of just touching your partner`s forearm or shoulder - there are so many ways to touch each other. Try hugging, fighting, baptizing, tickling."]
+                :notes => [
+            "Fun when played in locations when people don`t usually touch each other, like a confession chair, a sauna. Don`t go for the easy option of just touching your partner`s forearm or shoulder - there are so many ways to touch each other. Try hugging, fighting, baptizing, tickling."
+        ]
     },
     {
              :see_also => [],
@@ -3476,7 +3621,9 @@
         :also_known_as => [],
                  :name => "Translation for the Deaf",
           :description => "We need 3 players for this game. One will be an expert on a topic provided by the audience; another will be the interviewer. The third will provide simultaneous translation for the hearing impaired, using `sign language`.",
-                :notes => ["This works best if the interview itself does not go too fast, so the translator has plenty of time to translate. Also helpful are returning keywords that the translator can always translate the same way. A gimmick is to translate everything literally, even `dummy` words, like `oh`, `great`, `hm hm`."]
+                :notes => [
+            "This works best if the interview itself does not go too fast, so the translator has plenty of time to translate. Also helpful are returning keywords that the translator can always translate the same way. A gimmick is to translate everything literally, even `dummy` words, like `oh`, `great`, `hm hm`."
+        ]
     },
     {
              :see_also => [],
@@ -3497,7 +3644,9 @@
         :also_known_as => [],
                  :name => "Trivial Pursuit",
           :description => "MC asks the audience to pick Trivial Pursuit cards. Players line up, and the MC reads questions from the cards picked by the audience. Players invent the funniest answer to these questions.",
-                :notes => ["The MC needs to screen the questions; a question like `In what year electricity was invented` should be avoided. As there are 6 questions on a card, go for the question that is vaguest and offers most options."]
+                :notes => [
+            "The MC needs to screen the questions; a question like `In what year electricity was invented` should be avoided. As there are 6 questions on a card, go for the question that is vaguest and offers most options."
+        ]
     },
     {
              :see_also => [],
@@ -3565,7 +3714,9 @@
         :also_known_as => [],
                  :name => "Walk-over Association",
           :description => "Another way of playing association games. Place all players at one end of the room. Ask them to name, for themselves, all the things they think of when you throw them the word `Banana` (or anything else). For every word they come up with they can take a step. They should keep thinking of stuff until they reach the other side of the room. Then throw them another word.",
-                :notes => ["Watch for players that take unreasonably big steps. Ask them if they are afraid they will run out of ideas."]
+                :notes => [
+            "Watch for players that take unreasonably big steps. Ask them if they are afraid they will run out of ideas."
+        ]
     },
     {
              :see_also => [
@@ -3584,11 +3735,18 @@
         :also_known_as => [],
                  :name => "Warehouse",
           :description => "Let the players walk around leisurely. Tell them they are in a big warehouse, with lots of shelves and cabinets, packed with junk. Let the players reach out, take something from an shelve, and name it. Players should not preconceive, just open their hands and mime taking something from a shelf, and see what it becomes. Once they`ve named it for themselves, they place the object back, move on to another shelf and pick up something else.",
-                :notes => ["If players find this difficult, have them play Presents first."]
+                :notes => [
+            "If players find this difficult, have them play Presents first."
+        ]
     },
     {
-             :see_also => ["Malapropism", "Dissociation"],
-           :variations => ["You can also play this at super high speed, with 2 players. We mean super-super high speed. As soon as one of the players says ummm, hesitates, or uses an noffer that was used before in that session, that player is replaced. Great for warm-up and energy!"],
+             :see_also => [
+            "Malapropism",
+            "Dissociation"
+        ],
+           :variations => [
+            "You can also play this at super high speed, with 2 players. We mean super-super high speed. As soon as one of the players says ummm, hesitates, or uses an noffer that was used before in that session, that player is replaced. Great for warm-up and energy!"
+        ],
         :also_known_as => [],
                  :name => "What are you doing",
           :description => "This is really a Dissociation game, but fun to play. Everyone at one end of the room, form a long line. The first player of the line steps into the room and starts miming an activity. As soon as the activity is clear, player 2 approaches player 1 and asks `What are you doing`. The first player answers something that has nothing to do with what he`s actually doing. E.g. if player 1 is cutting someone`s hair, when asked what he`s doing he might say \"I`m reading the newspaper\". First player moves away, and the second player starts miming the activity stated by the previous player. A third player comes up to player 2, asks what he is doing, and so on. Play until everyone has mimed something, and has answered the question."
@@ -3606,7 +3764,9 @@
         :also_known_as => [],
                  :name => "What Would She Be If",
           :description => "Choose one player and let her stand in front of the class. Then ask the whole class to think what she would be if she were a car, a flower, a building, a era, a foreign country, a mineral, a beverage, your name it.",
-                :notes => ["Tell the group there are no wrong answers. You may want to ask players what triggered their responses - the answers will probably vary widely. If you are doing a series of workshops, it may also be interesting to play this game early on, before people know each other, and then again after a couple of weeks, when everyone has gotten to know everyone a bit better. See if the answers are any different."]
+                :notes => [
+            "Tell the group there are no wrong answers. You may want to ask players what triggered their responses - the answers will probably vary widely. If you are doing a series of workshops, it may also be interesting to play this game early on, before people know each other, and then again after a couple of weeks, when everyone has gotten to know everyone a bit better. See if the answers are any different."
+        ]
     },
     {
              :see_also => [],
@@ -3680,7 +3840,9 @@
         :also_known_as => [],
                  :name => "Word at a Time Story",
           :description => "This is an exercise to train group narrative. All players sit in a circle. We are going to tell a story one word at a time. Each player provides one word of a sentence. End of a sentence can be indicates by a player saying `period`, although that is not necessary.",
-                :notes => ["This is more difficult than it sounds, especially with newbies. If you`re working with novice players have them try a familiar story. like Snow White & the Seven Dwarfs first. Summarize the story before they get started, to make sure they`re all on the same story. Don`t be surprised if gagsters manage to smuggle atomic bombs and crashing aircraft into the story. Ask the group if they can see/understand the reasons why their story sucks. n You can also play this a challenge with newbies: divide the group into 2 circles, and have them compete each other - see which group can finish the story first."]
+                :notes => [
+            "This is more difficult than it sounds, especially with newbies. If you`re working with novice players have them try a familiar story. like Snow White & the Seven Dwarfs first. Summarize the story before they get started, to make sure they`re all on the same story. Don`t be surprised if gagsters manage to smuggle atomic bombs and crashing aircraft into the story. Ask the group if they can see/understand the reasons why their story sucks. n You can also play this a challenge with newbies: divide the group into 2 circles, and have them compete each other - see which group can finish the story first."
+        ]
     },
     {
              :see_also => [
@@ -3710,7 +3872,9 @@
         :also_known_as => [],
                  :name => "Yes Lets - or Rather Not",
           :description => "This is a bit controversial, and you probably don`t want to do this with newbies. This one goes a bit like Yes Lets: all players on stage, someone provides a location, e.g. a beach. One player suggests an action. All players that like the action yell `Yes, Let`s do that` and start doing it. Whoever does not like the suggestion steps out sits down. Game continues till only one player is left.",
-                :notes => ["This one is a bit controversial as players will object that (one of) the main ideas in Improv is to accept, and in this game one can reject a suggestion. The idea behind this exercise is that we want our players to be Mr. Nice Guy - players should try to make their co-players happy. The problem is to learn what suggestions are `good`, which suggestions make our other players happy. And that`s what we`re trying to learn with this exercise. Attitude is important for this one: players should not feel inhibited to step out (i.e. they should not feel that they are not accepting players should not feel rejected when others step out. Be happy about that - you are learning which suggestions make others happy! (see Chivalry )."]
+                :notes => [
+            "This one is a bit controversial as players will object that (one of) the main ideas in Improv is to accept, and in this game one can reject a suggestion. The idea behind this exercise is that we want our players to be Mr. Nice Guy - players should try to make their co-players happy. The problem is to learn what suggestions are `good`, which suggestions make our other players happy. And that`s what we`re trying to learn with this exercise. Attitude is important for this one: players should not feel inhibited to step out (i.e. they should not feel that they are not accepting players should not feel rejected when others step out. Be happy about that - you are learning which suggestions make others happy! (see Chivalry )."
+        ]
     },
     {
              :see_also => [],
@@ -3732,7 +3896,10 @@
         :also_known_as => [],
                  :name => "You're Fired",
           :description => "This is a scene with 2 players, in which the lines are scripted. Here`s the script: (1) {Knocks on a door} (2) Come in. You know why I called you? (1) {Indicates she does not know why} n (2) {Hands 1 a (mimed) piece of paper} (1) I thought you wouldn`t take that into account? (2) You`re fired. (1) Fine. I hated that stupid job anyway. Have the players play that scene. They need to stick to the script, but can really do anything as long as they don`t add any lines. It probably won`t be all that interesting. Then make them replay the scene, but give them a side coaching (which the other player and the audience or the rest of the group don`t hear). See if the scenes become any more interesting. Things you might give a player could be You`re nervous, happy, sad, afraid of the other The other smells nice/stinks You`ve been eating beans/garlic You turn into a crow/monkey/cow You are in a wheelchair You try to make a pass at the other Your underwear doesn`t quite fit (too small) You are a bit deaf, you can`t find your glasses, you loose a contact, loose your dentures. You are a kleptomaniac.",
-              :notes => ["Players can do quite a lot without deviating from the script. They can build/open doors, windows, cabinets, make all kinds of noises or faces. Remind players they can switch status. Perhaps they could try and make clear what`s on the note? Is it bad, or petty, or funny, or sad?"]    },
+                :notes => [
+            "Players can do quite a lot without deviating from the script. They can build/open doors, windows, cabinets, make all kinds of noises or faces. Remind players they can switch status. Perhaps they could try and make clear what`s on the note? Is it bad, or petty, or funny, or sad?"
+        ]
+    },
     {
              :see_also => [],
            :variations => [],
