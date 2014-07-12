@@ -7,16 +7,19 @@ def fetch_data
 end
 
 def iterate
-  no_name = []
-  no_description = []
+  notes = {}
+  counter = 0
   game_data = fetch_data
-  game_data.each do |g|
-    unless g[:name]
-      no_name << game_data.index(g)
-    end
-    unless g[:description]
-      no_description << game_data.index(g)
+  game_data.each_with_index do |g, i|
+    if g[:notes]
+      if g[:notes].length > 0
+        counter += 1
+        notes[g[:name]] = g[:notes]
+      end
     end
   end
-  return {:no_description => no_description, :no_name => no_name }
+  return ["counter: #{counter}", notes]
 end
+
+puts iterate
+puts iterate.length

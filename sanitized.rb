@@ -10,6 +10,13 @@
              :see_also => [],
            :variations => [],
         :also_known_as => [],
+                 :name => "Commenting",
+          :description => "Stepping out of the scene and commenting on what`s going on. Use sparingly. This is basically the handle for Asides."
+    },
+    {
+             :see_also => [],
+           :variations => [],
+        :also_known_as => [],
                  :name => "3 Lines",
           :description => "A great exercise to train scene start-ups. 2 players initiate a scene; the scene is broken off after 3 lines. The goal is to establish as much as possible as fast as possible. We want to understand the Platform, the Characters , the Environment and the points of view or drivers of the characters. Once 3 lines of dialog have been uttered, restart a different scene."
     },
@@ -76,7 +83,7 @@
             "Actor Switch"
         ],
                  :name => "Switcheroo",
-          :description => "This is like Simple Continuation , except that the MC interrupts the scene several times, and at each interruption all actors in the scene get switched; no new actors join in, and no actors leave."
+          :description => "This is a lot like Simple Continuation. It varies in that the MC interrupts the scene several times, and at each interruption all actors in the scene get switched; no new actors join in, and no actors leave."
     },
     {
              :see_also => [],
@@ -1080,7 +1087,7 @@
     },
     {
              :see_also => [
-            "Goon River for a more open, more free Long Form version of the same Handle ."
+            "Goon River"
         ],
            :variations => [],
         :also_known_as => [
@@ -1089,7 +1096,9 @@
                  :name => "Voices From Heaven",
           :description => "Excellent game for building characters and group-storytelling. 4 players, ask the audience who they are, what their occupation would be. These 4 characters have died together, and they are going to tell us how that came about. Players line up. The game is played in 3 rounds. In every round, each player offers some information about how they happened to die. At the end of the thirds round, they should all be dead.",
                 :notes => [
-            "It`s fun to take risks - if in the first round each of the players just offers what they happened to be doing the day they died, and where. It is quite a challenge to get these 4 stories together, including the deaths of all characters, by the end of the third round."
+            "It`s fun to take risks - if in the first round each of the players just offers what they happened to be doing the day they died, and where. It is quite a challenge to get these 4 stories together, including the deaths of all characters, by the end of the third round.",
+            "See Goon River for a more open, more free Long Form version of the same Handle"
+
         ]
     },
     {
@@ -1327,9 +1336,22 @@
           :description => "Usually played with 4 players, but can be done with more or less players. As a suggestion ask for a family activity, then start a normal scene. As soon as all characters and their relationships have been established, freeze the scene, pick a player, and ask for an emotion for that player. The scene then continues, and the player is overcome with that emotion. Repeat till all players got an emotion. The scene has to keep evolving after each emotion assignment, and of course players shall try Justifying the emotions."
     },
     {
-             :see_also => [
-            "Pimping and Shivving"
-        ],
+             :see_also => ["Shivving"],
+           :variations => [],
+        :also_known_as => [],
+                 :notes => ["Pimping is an example of shivving."],
+                 :name => "Pimping",
+          :description => "Playfully getting another player to do something unpleasant or difficult. Used sparingly if can be quite funny (if accepted)."
+    },
+    {
+             :see_also => ["Pimping"],
+           :variations => [],
+        :also_known_as => [],
+                 :name => "Shivving",
+          :description => "Playfully misbehaving. Pimping is an example of shivving."
+    },
+    {
+             :see_also => ["Pimping", "Shivving"],
            :variations => [
             "This can be done as a one-person exercise as well: have the player say or do something that will manipulate her own character's emotional state. Another variation is to blurt out dialog to which the emotional reaction cannot be predicted (Honey I'm pregnant) - but also in that case player 2 should react with a change in emotion. E.g. happy: That's so wonderful baby, we've been trying for such a long time. Versus mad: You silly cow, don't tell me you forgot your birth control pills again. Versus sad: That makes me think of poor little Jimmy again, I miss him so much."
         ],
@@ -1472,6 +1494,13 @@
             "The attributes go with the characters, not necessarily with the actual performer`s body. A heavyset person may move about delicately.",
             "Origin: Attributed to Keith Johnstone. See Impro for Storytellers."
         ]
+    },
+    {
+             :see_also => [],
+           :variations => [],
+        :also_known_as => [],
+                 :name => "Status",
+          :description => "Status is a character's sense of self-esteem. When building characters, make sure to play different statuses. Also, allow your status to be changed as a lot of interesting stories are built around status transformations."
     },
     {
                 :notes => [
@@ -1634,7 +1663,8 @@
     },
     {
              :see_also => [
-            "Word Ball and Clap Snap Association",
+            "Word Ball",
+            "Clap Snap Association",
             "Blind Association Circle",
             "Last Letter"
         ],
@@ -1666,14 +1696,15 @@
     },
     {
              :see_also => [
-            "Space Jump for an extension of this game."
+            "Space Jump"
         ],
            :variations => [],
         :also_known_as => [],
                  :name => "Freeze Tag",
           :description => "2 actors start an improvized scene. At any point in time another player can call Freeze. This player then tags out one of the 2 actors, and takes his place. Both players then start a new scene, justifying their positions.",
                 :notes => [
-            "The way this improv game is played quite often goes a bit against good improv, as many groups hardly take the time to develop a story line. If played this way, it`s more a game of wit, and you would probably use it early in a show as an audience (and player) warm-up. Alternatively, you can take your time and play every scene for several minutes, see what develops, and only at the end of each scene tag into another scene. To avoid preconceptions, see Blind Freeze."
+            "The way this improv game is played quite often goes a bit against good improv, as many groups hardly take the time to develop a story line. If played this way, it`s more a game of wit, and you would probably use it early in a show as an audience (and player) warm-up. Alternatively, you can take your time and play every scene for several minutes, see what develops, and only at the end of each scene tag into another scene. To avoid preconceptions, see Blind Freeze.",
+            "Space Jump is an an extension of this game."
         ]
     },
     {
@@ -1782,7 +1813,7 @@
     },
     {
              :see_also => [
-            "Voices from Heaven"
+            "Voices From Heaven"
         ],
                 :notes => [
             "See Voices from Heaven for a short form game version which is really based on the same handle.",
@@ -2123,11 +2154,12 @@
     },
     {
              :see_also => [
-            "Do Ron Ron for a similar structure."
+            "Do Ron Ron"
         ],
            :variations => [
             "Invent your own choreography and have the players dance as they sing."
         ],
+                :notes => ["See 'Do Ron Ron' for a similar structure."],
         :also_known_as => [],
                  :name => "Irish Drinking Song",
           :description => "4 players sing a song about a subject, given by the audience, on an Irish-souding tune, one line at a time. 4 lines makes 1 verse; after the frist verse, a second verse is started by player number 2; and so forth. After 4 verses every player has both started and ended a verse and the song is over. Played quite often in Who`se Line is it Anyway. You`ll find plenty of examples on YouTube.com."
@@ -2150,9 +2182,10 @@
     },
     {
              :see_also => [
-            "Association Jump for an extension of this exercise."
+            "Association Jump"
         ],
            :variations => [],
+                :notes => ["See 'Association Jump' for an extension of this exercise."],
         :also_known_as => [],
                  :name => "Jump",
           :description => "This is at times a physical Warm-up , a physical association game, and a game for character work. The game is played individually but all players can do this simultaneously. All players mill about the room. At any point the trainer yells \"Yes!\", at which point all players `jump` into a position. Trainer can (but does not have to) sidecoach by shouting `direction` (see Fast Food Laban ) like `horizontal`, `up`, `down`, `sideways`, `big`, `small`, `light`, `heavy`. The idea then is to let the position into one has jumped inspire the player to a character, a situation. The inspiration comes from associating the position with, erm, well, whatever comes to mind."
@@ -2368,14 +2401,13 @@
           :description => "This is a nice elimination warm-up. Everyone spreads out in a staggered line, like in an aerobics class. Then someone calls one of the following: `Land ahoy` - and everyone hops on one foot, doing a salute with one hand `Hit the deck` - all down on the floor in a push-up position `octopus` - make groups of 2, one person on hands and knees and someone else over him or her in the same position `Man overboard` - groups of 2, one bending back and knees and the other on the first`s back (piggy-back style) `two three four` - all sit down and start rowing Whoever is last drops out. Repeat till all but one are out."
     },
     {
-             :see_also => [
-            "Impro for Storytellers for a discussion on the use of Mantras."
-        ],
+             :see_also => [],
            :variations => [
             "Try with other mantras, like 'I hate you', and see what the effect is. Let players choose a mantra, and then play a scene. See Mantra Introduction for more about mantras."
         ],
         :also_known_as => [],
                  :name => "Mantra",
+                :notes => ["See Impro for Storytellers for a discussion on the use of Mantras."],
           :description => "Let the players play a short scene. Then ask them to repeat the following mantra in their head, and replay the scene `I`m so happy, I`m so happy`. In many cases, you will find that the whole scene becomes happier."
     },
     {
@@ -2662,7 +2694,7 @@
     {
              :see_also => [],
            :variations => [
-            "You can try and use this as an audience warm-up, and try to get the audience to talk to the MC out of one mouth. This is suggested in Impro for Storytellers ."
+            "You can try and use this as an audience warm-up, and try to get the audience to talk to the MC out of one mouth. This is suggested in Impro for Storytellers."
         ],
         :also_known_as => [],
                  :name => "One Mouth",
@@ -3402,7 +3434,7 @@
             "pimping"
         ],
              :see_also => [
-            "Mr. So and So."
+            "Mr. So and So"
         ],
            :variations => [],
         :also_known_as => [],
